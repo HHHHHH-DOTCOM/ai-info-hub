@@ -1,6 +1,6 @@
 # 每日情报晨报 · 2026-10-22
 
-> 共 1549 条更新，覆盖 12 类关注点。生成于 2026/10/22 00:30:43
+> 共 1642 条更新，覆盖 12 类关注点。生成于 2026/10/22 06:57:00
 
 ## ⏰ 即将截止
 
@@ -19,12 +19,12 @@
 
 - [Qloo Agentic Hackathon](https://qloo.devpost.com) — 地点：Online · 赛期：Sep 30 - Oct 30, 2026 · 奖金：$ 25,000 · 报名：2076 人 · 主题：Machine Learning/AI ·…  `Devpost 黑客松`
 - [AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon](https://aws-cds-partner.devpost.com) — 地点：Online · 赛期：Sep 14 - Oct 28, 2026 · 奖金：$ 40,000 · 报名：974 人 · 主题：Communication / Mobile…  `Devpost 黑客松`
+- [24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI](https://www.ithome.com/1/016/169.htm) — IT之家 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet， 定位为可主动工作的 AI 智能体（a…  `IT之家`
 - [具有多模态能力的客服智能体设计](https://www.datafountain.cn/competitions/1165) — DataFountain 数据竞赛平台赛题  `DataFountain`
 - [提升大模型推理与微调效率：vLLM与LlaMa-Factory性能优化挑战](https://www.datafountain.cn/competitions/1099) — DataFountain 数据竞赛平台赛题  `DataFountain`
 - [如何从0-1写好一个Skill？超全教程+案例分享！](https://www.woshipm.com/ai/6478938.html) — 想拥有一个称心的 AI Skill，要么从零手写耗时费力，要么 AI 生成不达预期。文章分享做 Skills 的经验，从写出包含身份、用途、内容、交付要求与禁用规则的撰写指令，到…  `人人都是产品经理`
 - [中文开源数据集驱动中文大模型智能跃迁挑战赛](https://www.datafountain.cn/competitions/1098) — DataFountain 数据竞赛平台赛题  `DataFountain`
-- [DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道](http://www.geekpark.net/news/372568) — DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-…  `极客公园`
-- [美团PK腾讯，都想再造一个AI时代的AppStore？](https://www.woshipm.com/ai/6482104.html) — 最近，美团又开了一家“商店”。 不过，这次卖的不是外卖、团购券，而是AI的技能（Skill）。 据媒体报道，美团AI团队推出了一个名叫DeepSkill Market的产品。打开…  `人人都是产品经理`
+- [Anthropic takes on Muse with Claude Duet, its new AI agent](https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent) — Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude …  `The Verge AI`
 
 ## ⚙ AIGC 技巧与做法
 
@@ -33,9 +33,9 @@
 - [基于Intel Gaudi AI加速器的大语言模型微调与推理优化](https://www.datafountain.cn/competitions/1041) — DataFountain 数据竞赛平台赛题  `DataFountain`
 - [首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活](https://www.ifanr.com/1685170?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 21499 元的 iPhone Duo，加上 86749 元的 Mac Studio，两台设备加起来超过 10 万元。 APPSO 想用这两台苹果史上最贵的手机和电脑，打造一个这…  `爱范儿`
 - [如何用AI输出一套完整的产品详情页？（附详细提示词）](https://www.woshipm.com/ai/6479410.html) — 做独立站，产品详情页是决定转化率的关键。用好AI工具，你完全可以在短时间内生成一套高质量、高转化的详情页，从竞品调研、产品分析、卖点提炼到文案与图片生成全流程覆盖。 做独立站，产…  `人人都是产品经理`
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — The most powerful and…  `GitHub Trending`
 - [AI 时代下，需求文档的黄金模式：Spec](https://www.woshipm.com/pd/6481688.html) — 一位不懂代码的产品经理，用175天独立搭建起覆盖Web端、运营后台、数据采集、自动写作、短视频与支付会员的完整系统。他复盘了从失败到成功的需求开发模式，提出Spec三份文档（需求…  `人人都是产品经理`
 - [REA的真相：能逆向任何程序的AI，唯独搞不定这个](https://www.woshipm.com/share/6481864.html) — GitHub 16万star的REA让逆向工程平民化，AI编码代理能直接分析应用行为与二进制。当塔尖能力都被自动化，编码能力已不再稀缺。本文深入探讨：真正稀缺的，是判断代码的能力…  `人人都是产品经理`
-- [ApiGo 5.4.0发布，加固安全认证](https://www.oschina.net/news/503138) — ApiGo 5.2.0：接口认证新增 OAuth2 与企业 IdP JWT 两种方式 ApiGo 做的事没变——把 ERP、CRM 这类企业存量系统的数据封装成标准 REST A…  `开源中国`
 
 ## ⚡ 全球 AI 黑客松
 
@@ -52,12 +52,12 @@
 
 - [专业剪辑师，如何做出电影级音频质感？](https://www.xinpianchang.com/a13845525?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
 - [剪辑/后期](https://www.shixiseng.com/intern/inn_lwr2c3gev0te)  `实习僧·剪辑实习`
+- [调色盘批量变更利器：Vector Chimera](https://www.indienova.com/indie-game-development/changing-the-palette-of-multiple-png-files)  `indienova`
 - [iPhone Duo首发评测出炉！影视飓风反折实测：不用担心一屁股坐弯](https://news.mydrivers.com/1/1159/1159456.htm) — 快科技10月21日消息， 苹果首款折叠屏手机iPhone Duo将于10月23日正式发售，新机评测也于今晚解禁。 影视飓风发布的iPhone Duo深度评测中，对新机的屏幕、铰链…  `快科技`
 - [线上远程剪辑](https://www.shixiseng.com/intern/inn_zio4gsywwjjq)  `实习僧·剪辑实习`
 - [影视飓风评测iPhone Duo：不用担心一屁股坐弯](https://www.gamersky.com/news/202610/2232841.shtml)  `游民星空`
 - [封神创意！把 “握手” 做成整部广告的核心符号](https://www.xinpianchang.com/a13849055?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
 - [质感短片「 Pioneers in Moncler 」无界先锋，心向巅峰](https://www.xinpianchang.com/a13848946?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
-- [劳斯莱斯质感短片：线条纯粹美学](https://www.xinpianchang.com/a13842001?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=5)  `新片场`
 
 ## ♿ 残障大学生成长
 
@@ -86,11 +86,11 @@
 - [2022/09/17-艺术学院（威海）2023年推免生遴选工作小组成员名单成绩排名方式及推免备选名单](https://www.art.sdu.edu.cn/info/1302/13599.htm)  `山东大学艺术学院`
 - [武汉大学艺术学院人才招聘公告 Nov 17](https://art.whu.edu.cn/info/1531/11651.htm)  `武汉大学艺术学院`
 - [2025年重庆市长寿区教育事业单位面向应届毕业农村小学全科教师考核招聘工作人员公告（20人）](https://www.shiyebian.net/xinxi/515234.html)  `事业单位招聘网`
+- [2025年上海市第二轻工业学校招聘工作人员公告（2025第二批）（2人）](https://www.shiyebian.net/xinxi/515240.html)  `事业单位招聘网`
 - [中国铁塔以数字基建为革命老区注入新动能 [10-12]](http://www.sasac.gov.cn/n2588025/n2588119/c36049729/content.html)  `国务院国资委`
 - [【企步新长征】91年后再次巧渡金沙江：温暖云崖，照亮远方 [10-20]](http://www.sasac.gov.cn/n2588025/n2588124/c36071917/content.html)  `国务院国资委`
 - [链护粮仓 广东省属企业筑牢南粤粮食安全屏障 [10-20]](http://www.sasac.gov.cn/n2588025/n2588129/c36072263/content.html)  `国务院国资委`
 - [人民日报：弘扬伟大长征精神 走好今天的长征路 [10-21]](http://www.sasac.gov.cn/n2588025/n2588139/c36075369/content.html)  `国务院国资委`
-- [2025年上海市第二轻工业学校招聘工作人员公告（2025第二批）（2人）](https://www.shiyebian.net/xinxi/515240.html)  `事业单位招聘网`
 
 ## 🎓 戏影考研·985
 
@@ -127,14 +127,14 @@
 
 ## ◉ AI 3D / 游戏开发
 
+- [线下站点扩充到12个！2021 CiGA Game Jam报名开始！](https://www.indienova.com/indie-game-news/2021-ciga-game-jam-sign-up-open)  `indienova`
 - [评测 2026秋季itch.io独立游戏佳作选（中）](https://www.indienova.com/indie-game-review/2026-autumn-itch-io-indie-games-picks-part-2)  `indienova`
 - [2026秋季itch.io独立游戏佳作选（上）](https://www.indienova.com/indie-game-review/2026-autumn-itch-io-indie-games-picks-part-1)  `indienova`
 - [Global Game Jam](https://www.indienova.com/column/13)  `indienova`
 - [独立游戏设计师](https://www.shixiseng.com/intern/inn_5sbxa0w0uopw)  `实习僧·游戏实习`
+- [NOVA海外独立游戏见闻 Vol.66](https://www.indienova.com/indie-game-news/news-of-overseas-indie-games-and-industry-vol-66)  `indienova`
+- [[ 优秀游戏设计 ] 回顾集合（下）](https://www.indienova.com/indie-game-development/good-game-design-pack-b)  `indienova`
 - [独立游戏潮（RED）](https://www.indienova.com/column/3)  `indienova`
-- [让人眼前一亮的游戏设计](https://www.indienova.com/column/33)  `indienova`
-- [游戏设计课程笔记](https://www.indienova.com/column/11)  `indienova`
-- [游戏设计专业院校](https://www.indienova.com/column/9)  `indienova`
 
 ## ❖ AI 影游·互动影像
 
@@ -145,4 +145,4 @@
 - [第十九届上海大学生电视节全媒体影像大赛（MINI电影、AI微短剧、AI剧本）总决赛入围作品名单揭晓](https://comm.ecnu.edu.cn/fe/ba/c41511a786106/page.htm)  `华东师大传播学院`
 - [超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线](http://www.geekpark.net/news/372304) — 谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题 10 月 14 日消息， Gemini 4 Argon 现已面向全球开发者和…  `极客公园`
 - [短剧，在诞生一种很新的职业剧](https://www.tmtpost.com/8176607.html) — （本文作者为 短剧八部半，钛媒体经授权发布） 文 | 短剧八部半 “气管偏移，右侧张力性气胸，马上穿刺减压”。 最早知道「气胸」这个病因诊断，还是在TVB医疗剧《ON CALL …  `钛媒体`
-- [北京大学AI影视创意与管理人才高级研修班（第1期）招生简介 2025-07-15](https://art.pku.edu.cn/rcpyjxxm/jxjy/jxjy_tzgg/a2684d2f442a4ac8b283f9842d2de7a2.htm)  `北京大学艺术学院·动态`
+- [ISART 数字艺术学院学生毕业作品合集 2](https://www.indienova.com/indie-game-news/isart-graduation-collection-2)  `indienova`
