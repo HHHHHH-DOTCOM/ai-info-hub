@@ -1,0 +1,71 @@
+name: 每日情报同步
+
+on:
+  schedule:
+    # UTC 22:30 = 北京时间 06:30，每天自动跑一次
+    - cron: '30 22 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'config/**'
+      - 'src/**'
+      - 'assets/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-sync
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 采集 → 构建 → 晨报
+        run: node src/daily.mjs
+
+      - name: 自检
+        run: node scripts/verify.mjs
+
+      - name: 提交数据（保持历史累积）
+        if: always()
+        run: |
+          git config user.name  "ai-info-hub-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data dist
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -m "chore: 自动同步 $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: 上传 Pages 制品
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
