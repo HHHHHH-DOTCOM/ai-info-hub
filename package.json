@@ -1,0 +1,17 @@
+{
+  "name": "ai-info-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日聚合：AIGC 前沿/技巧、全球 AI 黑客松、剪辑技巧、残障大学生升学就业、实习、考公考编、戏影考研、大厂活动、AI 应用/3D 游戏/影游竞赛 → 静态网站 + GitHub Pages",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "collect": "node src/collect.mjs",
+    "build": "node src/build.mjs",
+    "daily": "node src/daily.mjs",
+    "serve": "node src/serve.mjs",
+    "verify": "node scripts/verify.mjs",
+    "wx": "node scripts/wx-qq-import.mjs --clipboard",
+    "site": "node src/collect.mjs && node src/build.mjs"
+  }
+}
