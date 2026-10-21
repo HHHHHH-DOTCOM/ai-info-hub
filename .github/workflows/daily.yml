@@ -29,6 +29,8 @@ jobs:
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 安装 Node
         uses: actions/setup-node@v4
@@ -42,17 +44,22 @@ jobs:
         run: node scripts/verify.mjs
 
       - name: 提交数据（保持历史累积）
-        if: always()
+        # 只在定时任务和手动触发时提交，避免 push 触发时自相冲突
+        if: github.event_name != 'push'
+        continue-on-error: true
         run: |
+          set -e
           git config user.name  "ai-info-hub-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data dist
+          git add data
           if git diff --cached --quiet; then
             echo "没有变化，跳过提交"
-          else
-            git commit -m "chore: 自动同步 $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+          git commit -m "chore: 自动同步 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # 若远端有新提交，先 rebase 再推
+          git pull --rebase --autostash origin main || true
+          git push || (git pull --rebase --autostash origin main && git push)
 
       - name: 上传 Pages 制品
         uses: actions/upload-pages-artifact@v3
