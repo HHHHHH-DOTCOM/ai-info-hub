@@ -1,0 +1,30 @@
+{
+  "recommended": [
+    "dbaeumer.vscode-eslint"
+  ],
+  "launch": {
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "采集情报",
+        "program": "${workspaceFolder}/src/collect.mjs",
+        "console": "integratedTerminal"
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "生成站点",
+        "program": "${workspaceFolder}/src/build.mjs",
+        "console": "integratedTerminal"
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "每日流程",
+        "program": "${workspaceFolder}/src/daily.mjs",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+}
