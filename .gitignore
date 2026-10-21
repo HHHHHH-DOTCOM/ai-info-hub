@@ -1,0 +1,14 @@
+node_modules/
+data/edgeprof/
+data/eprof2/
+data/shot-*.png
+data/shot-*.pdf
+data/serve.log
+data/serve.err
+data/logs/
+tools/
+.github-token
+我的网站地址.txt
+*.log
+.DS_Store
+Thumbs.db
