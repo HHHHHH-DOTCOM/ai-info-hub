@@ -1,42 +1,41 @@
-# 每日情报晨报 · 2026-10-28
+# 每日情报晨报 · 2026-10-29
 
-> 共 575 条更新，覆盖 12 类关注点。生成于 2026/10/28 07:01:04
+> 共 548 条更新，覆盖 12 类关注点。生成于 2026/10/29 07:05:21
 
 ## ⏰ 即将截止
 
-- **1 天后截止** · [AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon](https://aws-cds-partner.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [2026 International CodeTheCure Hackathon](https://codethecure-hackathon-26.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [Girls Who Code HHS Hackathon 2026](https://gwchhs-hackathon-2026.devpost.com) — Devpost 黑客松
-- **3 天后截止** · [Nebius x NVIDIA Global AI Hackathon](https://nebiusglobalaihackathon.devpost.com) — Devpost 黑客松
-- **3 天后截止** · [Qloo Agentic Hackathon](https://qloo.devpost.com) — Devpost 黑客松
-- **3 天后截止** · [HackFW: MADE Challenge](https://hackfw.devpost.com) — Devpost 黑客松
-- **3 天后截止** · [Pumpkin Playground](https://pumpkin-playground.devpost.com) — Devpost 黑客松
-- **3 天后截止** · [CodeSprint by Elite Coders](https://codesprint-by-elitecoders.devpost.com) — Devpost 黑客松
-- **4 天后截止** · [Next Byte Hacks V5](https://next-byte-hacks-v5.devpost.com) — Devpost 黑客松
-- **4 天后截止** · [MineArena 1.0](https://minearena-1-0.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [Nebius x NVIDIA Global AI Hackathon](https://nebiusglobalaihackathon.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [Qloo Agentic Hackathon](https://qloo.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [HackFW: MADE Challenge](https://hackfw.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [Pumpkin Playground](https://pumpkin-playground.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [CodeSprint by Elite Coders](https://codesprint-by-elitecoders.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [FUSE Society Blueprint 2026](https://fuse-society-blueprint-2026.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [Next Byte Hacks V5](https://next-byte-hacks-v5.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [MineArena 1.0](https://minearena-1-0.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [RenderJuice Blender Animation & Programmatic Rendering Contest](https://programmatic-rendering-contest.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [CreateAThon](https://graph-hacks.devpost.com) — Devpost 黑客松
 
 ## ✦ AIGC 前沿
 
 - [Qloo Agentic Hackathon](https://qloo.devpost.com) — 地点：Online · 赛期：Sep 30 - Oct 30, 2026 · 奖金：$ 25,000 · 报名：2076 人 · 主题：Machine Learning/AI ·…  `Devpost 黑客松`
-- [国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6](https://www.qbitai.com/2026/10/505694.html) — 国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6
- <img src="http://www.qbitai.com/wp-content/themes/liang…  `量子位·资讯`
-- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) — OpenAI and Oracle are expanding their partnership to bring business applications and AI a…  `OpenAI News`
-- [Claude Code 桌面化：把 Agent 体验做成可接管的工作台](https://www.woshipm.com/ai/6484786.html) — Claude Code 桌面版把多会话、网页预览、代码差异和终端放进同一个窗口，新建会话从 837 毫秒压到 347 毫秒；难点不是多一个界面，而是让用户看清模型在改什么、哪里需…  `人人都是产品经理`
-- [OpenAI 和 Anthropic 将大模型价格砍了八成，这门生意到底怎么算的？](https://www.oschina.net/news/503251/cheap-llms) — 从六月 GPT-5.6 系列发布到现在，OpenAI 和 Anthropic 的主流模型价格塌了一大截，最多砍掉 80%。Max Woolf 把这场价格战的时间线全捋了一遍，结论…  `开源中国`
-- [AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon](https://aws-cds-partner.devpost.com) — 地点：Online · 赛期：Sep 14 - Oct 28, 2026 · 奖金：$ 40,000 · 报名：974 人 · 主题：Communication / Mobile…  `Devpost 黑客松`
-- [给自己搭一个 AI 第二大脑：从收集资料到写出文章，手把手教你做](https://www.woshipm.com/share/6484796.html) — Obsidian 的价值在开放：以本地 Markdown 文件为基础，配上双向链接、关系图谱和 Bases 数据库，再让 Agent 读写，整理和维护都能交出去，人只管内化。 用…  `人人都是产品经理`
-- [中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0](https://www.ifanr.com/1686050?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 最近两个月，Personal Agent 这个概念忽然从边缘话题变成了普通用户手机屏幕上的新图标。 Meta 在 9 月 8 日正式推出 Muse，短短 40 天内下载量突破 1…  `爱范儿`
+- [苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道](http://www.geekpark.net/news/372952) — Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次…  `极客公园`
+- [轻量化异构双臂 × VLA/世界模型：家庭服务具身机器人的落地实践](https://www.infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication) — A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her …  `TechCrunch AI`
+- [别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践](https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) — OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into Ser…  `OpenAI News`
+- [短剧的通胀危机：为何AI没有让内容生意更好赚钱？](https://www.tmtpost.com/8184741.html) — 图片由AI生成 “制作已经没有任何意义了。” 在近期举办的2026阅文创作大会结束后的交流环节，黄浩南发出如此感叹。 而最近让他这种感受更强烈的一件事，是他发现一个初三女生在校用…  `钛媒体`
+- [Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”](https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
 
 ## ⚙ AIGC 技巧与做法
 
-- [Claude Code 桌面化：把 Agent 体验做成可接管的工作台](https://www.woshipm.com/ai/6484786.html) — Claude Code 桌面版把多会话、网页预览、代码差异和终端放进同一个窗口，新建会话从 837 毫秒压到 347 毫秒；难点不是多一个界面，而是让用户看清模型在改什么、哪里需…  `人人都是产品经理`
-- [给自己搭一个 AI 第二大脑：从收集资料到写出文章，手把手教你做](https://www.woshipm.com/share/6484796.html) — Obsidian 的价值在开放：以本地 Markdown 文件为基础，配上双向链接、关系图谱和 Bases 数据库，再让 Agent 读写，整理和维护都能交出去，人只管内化。 用…  `人人都是产品经理`
-- [别只用 Claude 聊天：三块能力搭成长期工作流](https://www.woshipm.com/ai/6484806.html) — 多数人用 Claude 只当搜索框：问一句、拿一段、关页面。Projects 用来沉淀资料和规则，Artifacts 承载可迭代的产物，长上下文同时读大量材料，三块拼起来才是工作…  `人人都是产品经理`
-- [这个免费的 Skill，用 Opus 5.5整理了 98 种视频风格提示词！](https://www.woshipm.com/ai/6484782.html) — 一个叫 lemo-opuscar 的 Skill 把视频风格提示词整理成清单，往下拉点开【All 98 styles】，就能看到 98 种风格都在里面了，2D、2.5D 和 3D…  `人人都是产品经理`
-- [Zentrola 1.3.0：在 Codex、Claude Code 里查订阅额度、管团队成员](https://www.oschina.net/news/503222) — 团队维护了多个 Codex、Claude Code 订阅账号，新同事来了，要分配权限和 Key；模型突然调用失败，要查是哪一个账号出了问题；任务做到一半，还想知道订阅额度够不够用…  `开源中国`
-- [Cloudflare 披露 KV cache 暴露事故，全部发生在超长上下文的 prompt 上](https://www.oschina.net/news/503242/cloudflare-glm-kv-cache-exposure-remediation) — Cloudflare 昨天公开了一起租户隔离事故：8 月 27 日到 9 月 9 日期间，Workers AI 平台上的 GLM-5.3 模型（@cf/zai-org/glm-5…  `开源中国`
-- [中国顶流博主，横扫海外社交媒体](https://www.woshipm.com/operate/6484706.html) — 一条 23 分钟的英文评测，把 iPhone Duo 折了一万次、冻了一千次，播放超过五千七百万，粉丝从零涨到三百万。何同学更早布局，中国博主正带着成熟的内容能力走向海外。 10…  `人人都是产品经理`
-- [世界各国的文字几乎都变成了字母文字，为何唯独中国文字两千年来都保持汉字不变？](https://daily.zhihu.com/story/9793540) — <h2 c…  `知乎日报`
+- [招 Agent 工程师，为什么张口就是 LangChain？](https://www.woshipm.com/ai/6485427.html) — 招聘 Agent 工程师，JD 第一行常写「熟悉 LangChain」。这个 2022 年 10 月才开源的项目，四年间从工具库长成 Agent 工程体系，它究竟解决了什么问题，…  `人人都是产品经理`
+- [轻量化异构双臂 × VLA/世界模型：家庭服务具身机器人的落地实践](https://www.infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践](https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) — OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into Ser…  `OpenAI News`
+- [Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”](https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [腾讯推出AI大会员，还是熟悉的QQ味道](https://www.woshipm.com/ai/6485853.html) — 不得不说，在卖会员这件事上，腾讯真是老玩家了。 20多年前，我们上QQ聊天，为了让昵称变红、等级升得快一点，心甘情愿掏钱开QQ会员。 后来又有红钻、黄钻、绿钻、超级会员、大会员。…  `人人都是产品经理`
+- [实测GPT-Image-2.5：用一张白底图跑完13个电商素材场景，比2.0强在哪？（附提示词）](https://www.woshipm.com/ai/6485473.html) — GPT-Image-2.5 悄然上线，实测 13 个电商素材场景后，产品一致性、细节真实性和局部编辑准确度均有明显提升。本文以保湿精华为例，从白底主图到买家秀，逐一拆解 6 大核…  `人人都是产品经理`
+- [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849) — Article URL: https://twitter.com/coolerwave/status/2114088769112477849 Comments URL: http…  `Hacker News`
 
 ## ⚡ 全球 AI 黑客松
 
@@ -45,52 +44,48 @@
 - [HackWithAditya](https://hackwithaditya.devpost.com) — 地点：Online · 赛期：Oct 16 - Nov 25, 2026 · 奖金：₹ 500,000 · 报名：81 人 · 主题：Education / Health / M…  `Devpost 黑客松`
 - [SafeSpace Hacks](https://safespace-hacks.devpost.com) — 地点：Online · 赛期：Oct 17 - Nov 22, 2026 · 奖金：$ 280 · 报名：61 人 · 主题：Beginner Friendly / Cybers…  `Devpost 黑客松`
 - [LaunchPad Hacks](https://launchpad-hacks.devpost.com) — 地点：Online · 赛期：Oct 16 - Nov 20, 2026 · 奖金：$ 300 · 报名：91 人 · 主题：Beginner Friendly / Open E…  `Devpost 黑客松`
-- [Dakar Bitcoin Hack by BTrust](https://dakar-bitcoin-hack-2026.devpost.com) — 地点：Online · 赛期：Oct 26 - Nov 20, 2026 · 奖金：$ 900 · 报名：50 人 · 主题：Blockchain / Fintech / Mac…  `Devpost 黑客松`
 - [AccessED Hacks](https://accessed-hacks.devpost.com) — 地点：Online · 赛期：Oct 17 - Nov 20, 2026 · 奖金：$ 225 · 报名：67 人 · 主题：Beginner Friendly / Educat…  `Devpost 黑客松`
+- [Dakar Bitcoin Hack by BTrust](https://dakar-bitcoin-hack-2026.devpost.com) — 地点：Online · 赛期：Oct 26 - Nov 20, 2026 · 奖金：$ 900 · 报名：50 人 · 主题：Blockchain / Fintech / Mac…  `Devpost 黑客松`
 - [Meta VR Start Developer Competition 2026](https://start-developer-competition-26.devpost.com) — 地点：Online · 赛期：Sep 24 - Nov 18, 2026 · 奖金：$ 1,000,000 · 报名：3580 人 · 主题：AR/VR / Machine Le…  `Devpost 黑客松`
 
 ## ✂ 剪辑技巧
 
-- [做了个免费、无水印、只有 2.3MB 的 Mac vlog 剪辑软件，专为 M 芯片优化](https://www.oschina.net/news/503234) — 平时拍 vlog 用剪映，很多功能要会员，所以自己写了一个，先给自己用，顺手开源了。 FrameCut 只支持 Apple 芯片，把芯片里的专用硬件都用上了： 编解码走媒体引擎，…  `开源中国`
-- [全景相机怎么拍出电影感？Insta360 X6 终极设置与调色指南](https://www.xinpianchang.com/a13850244?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
-- [印度行记 | 以旅途，安放失去《Reconstruir》](https://www.xinpianchang.com/a13854882?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=1)  `新片场`
-- [【无间狱·动画】王宅初遇·小分队集合！](https://www.xinpianchang.com/a13854659?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
-- [「 On 」质感品牌短片| 跑出节奏感美学](https://www.xinpianchang.com/a13852143?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
-- [“旧恨未消，新仇又添，豺狼岂会自称为良兽” - 第2章—缠斗](https://www.xinpianchang.com/a13853998?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
-- [用实用的电影制作技巧制作恐怖片 | 影视干货](https://www.xinpianchang.com/a13851283?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=5)  `新片场`
-- [JENN LEE SALIENT SS26](https://www.xinpianchang.com/a13853667?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=6)  `新片场`
+- [设备不是关键！教你 4 步让普通视频秒变电影感](https://www.xinpianchang.com/a13852507?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=5)  `新片场`
+- [苹果触屏 MacBook Pro 应用适配情况：Lightroom、达芬奇、C4D、Office 等今年晚些时候支持](https://www.ithome.com/1/019/249.htm) — IT之家 10 月 29 日消息，苹果今日推出首款触控屏 MacBook Pro，定价 22,999 元起。该产品采用双层串联 OLED 面板，HDR 峰值亮度可达 2,000 …  `IT之家`
+- [当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步](http://www.geekpark.net/news/373066) — 对于短剧创作者来说，最不缺的可能就是新的故事灵感。 在日常创作中，一个新的人物设定、一段有冲突的情节，甚至刷到的一条社会新闻，都可能成为下一部短剧的起点。 但短剧行业的生产节奏越…  `极客公园`
+- [XPENG L05｜AFTER CAR](https://www.xinpianchang.com/a13856434?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=1)  `新片场`
+- [日系治愈短片《冰箱里的小惊喜》｜Shot on FX5](https://www.xinpianchang.com/a13856551?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
+- [「 norda® 055 」视觉短片| 极致的速度，是灵魂的绝对自由](https://www.xinpianchang.com/a13854713?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
+- [获奖纪实短片《开罗》| 一座城的变迁与深情](https://www.xinpianchang.com/a13852401?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
+- [让台风知道，规矩不能坏！](https://www.xinpianchang.com/a13855739?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=6)  `新片场`
 
 ## ♿ 残障大学生成长
 
-- [安徽省残联调研淮北市残疾人工作](https://www.cdpf.org.cn/xwzx/dfdt1/64039b11e3274d58823ce11f994304bf.htm)  `中国残联·地方动态`
-- [“友好友善 自强自立”湖南省残疾人和助残先进事迹巡回宣讲报告会在岳阳举行](https://www.cdpf.org.cn/xwzx/dfdt1/c543c060c4c44d278c3cb7345b5facb1.htm)  `中国残联·地方动态`
-- [“交通银行杯”2026年全国残疾人就业服务机构职业指导竞赛在重庆收官](https://www.cdpf.org.cn/xwzx/dfdt1/46e973f1a71b4509a4fa1a985dbbb897.htm)  `中国残联·地方动态`
-- [安徽省残联党组召开扩大会议学习贯彻省第十二次党代会精神](https://www.cdpf.org.cn/xwzx/dfdt1/5e9507834c3e4d78b89b881fe0ff6800.htm)  `中国残联·地方动态`
-- [湖南省残联举办2026年第10期“梅花讲堂”](https://www.cdpf.org.cn/xwzx/dfdt1/55dd9df0d2ca492b9320f52b3c353585.htm)  `中国残联·地方动态`
-- [133.84%！湖南湘潭交出省重点民生实事“残疾人托养服务”暖心答卷](https://www.cdpf.org.cn/xwzx/dfdt1/130568f1ba194122a3517e34dff3d944.htm)  `中国残联·地方动态`
-- [赋能残友创业 点燃追梦希望——2026年湖南湘潭雨湖区残疾人SYB创业培训班顺利开班](https://www.cdpf.org.cn/xwzx/dfdt1/8e9bc3a8e372468db6c78e523637b33f.htm)  `中国残联·地方动态`
-- [残奥冬季两项队圆满完成2026年德国冬季两项邀请赛](https://www.cdpf.org.cn/xwzx/ywdt1/b99b9b32ad0e490e9457b5be429687f7.htm)  `中国残联·要闻`
+- [国赛砺精兵 助残显担当—广西代表队在全国残疾人就业服务机构工作人员职业指导竞赛斩获佳绩](https://www.cdpf.org.cn/xwzx/dfdt1/f4e6c49f413440058e52808ef25f89e3.htm)  `中国残联·地方动态`
+- [四川广元：2026年残疾人就业服务专场招聘会暨雇主培训会举行](https://www.cdpf.org.cn/xwzx/dfdt1/cec5ba17476a4b6dae00dd9f3ba8b2b6.htm)  `中国残联·地方动态`
+- [精准赋能创业路 助残逐梦启新程——湖南岳阳县2026年残疾人创业技能提升培训班圆满结业](https://www.cdpf.org.cn/xwzx/dfdt1/98ea37beaf54425884bdb51cc6499f36.htm)  `中国残联·地方动态`
+- [贵州铜仁市残联：莞铜同心育特教，山海携手护花开](https://www.cdpf.org.cn/xwzx/dfdt1/4d50dcd341cd4be6b8ae1daefeff2d21.htm)  `中国残联·地方动态`
+- [2026年天津市助残志愿服务学习交流活动成功举办](https://www.cdpf.org.cn/xwzx/dfdt1/bda179d445134e3a81d3d6c047f600df.htm)  `中国残联·地方动态`
+- [情暖重阳 残健同行——湖南怀化洪江市残疾人文化进家庭 “五个一” 文艺汇演侧记](https://www.cdpf.org.cn/xwzx/dfdt1/61ef2b434b52412b94925dd2218bc8b2.htm)  `中国残联·地方动态`
+- [广西2026年国家通用盲文培训班在南宁举办](https://www.cdpf.org.cn/xwzx/dfdt1/ed6ca4ea6f154813bb8d8999d23010a1.htm)  `中国残联·地方动态`
+- [广西残联举办2026年党务工作培训班](https://www.cdpf.org.cn/xwzx/dfdt1/cfa5b2a7e62f4ca5afb13ef434b1d139.htm)  `中国残联·地方动态`
 
 ## ◈ 实习机会
 
-- [实习生()](https://www.shixiseng.com/intern/inn_7tpu4r41lmm4)  `实习僧·AI 实习`
-- [编译器实习生](https://www.shixiseng.com/intern/inn_j5qm6spnj9si)  `实习僧·AI 实习`
-- [研发实习生](https://www.shixiseng.com/intern/inn_ioy5ulwqy8sx)  `实习僧·AI 实习`
-- [《英雄联盟手游》实习生](https://www.shixiseng.com/intern/inn_rhhbauqgifyi)  `实习僧·游戏实习`
-- [影视商业化运营实习生](https://www.shixiseng.com/intern/inn_vakysl4m1doi)  `实习僧·影视实习`
-- [年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人](https://www.tmtpost.com/8183283.html) — （本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市…  `钛媒体`
-- [搜索影视垂类产品实习生()](https://www.shixiseng.com/intern/inn_gr0jktx0igub)  `实习僧·影视实习`
-- [应用工程师](https://www.shixiseng.com/intern/inn_yegqag8tk3eq)  `实习僧·AI 实习`
+- [评测实习生](https://www.shixiseng.com/intern/inn_xok4njjkggaq)  `实习僧·AI 实习`
+- [拍摄剪辑实习生](https://www.shixiseng.com/intern/inn_pg3ysuf1dtya)  `实习僧·剪辑实习`
+- [【RTT+TPS】【个人独立DEMO】【求职/求实习】毕业前最后一学期开始急白脸搓的一个DEMO后的一些记录。少女前线明日方舟精神续作（](https://www.gcores.com/articles/221284) — DEMO的灵感是早年长年游玩MIMIMI GAMES的游戏，加上各种射击游戏的融合。事实上在我的印象里大约在2014年左右，我早就在平板上玩到一个可以上帝视角操控单位前进又能以第…  `机核 GCORES`
 
 ## ⛨ 考公·考编·央国企
 
-- [科技日报：中央企业紧急驰援西藏巴青地震灾区 [10-27]](http://www.sasac.gov.cn/n2588025/n2588139/c36094748/content.html)  `国务院国资委`
-- [【抗震救灾 央企行动】中国铁建驰援西藏那曲市巴青县抗震救灾 [10-27]](http://www.sasac.gov.cn/n2588025/n2588124/c36093890/content.html)  `国务院国资委`
-- [【企步新长征】红军长征走过的大草原：昔日“苦难之地”已是“幸福家园” [10-27]](http://www.sasac.gov.cn/n2588025/n2588124/c36093342/content.html)  `国务院国资委`
-- [链通产购储加销 黑龙江省农投集团守好“中华大粮仓” [10-27]](http://www.sasac.gov.cn/n2588025/n2588129/c36093379/content.html)  `国务院国资委`
-- [【抗震救灾 央企行动】西藏巴青县震区中国移动网络全部抢通 [10-26]](http://www.sasac.gov.cn/n2588025/n2588124/c36092515/content.html)  `国务院国资委`
-- [【抗震救灾 央企行动】中国石油打通油品保供“生命线” [10-27]](http://www.sasac.gov.cn/n2588025/n2588124/c36093797/content.html)  `国务院国资委`
-- [深国际京西南综合物流枢纽正式投营 [10-27]](http://www.sasac.gov.cn/n2588025/n2588129/c36093286/content.html)  `国务院国资委`
+- [以智赋能 中国铁塔书写塞上数字新篇 [10-28]](http://www.sasac.gov.cn/n2588025/n2588119/c36101152/content.html)  `国务院国资委`
+- [前三季度中国华电新能源发电量突破1000亿千瓦时 同比增长21.4% [10-28]](http://www.sasac.gov.cn/n2588025/n2588124/c36097569/content.html)  `国务院国资委`
+- [长八甲火箭成功发射卫星互联网低轨28组卫星 [10-28]](http://www.sasac.gov.cn/n2588025/n2588124/c36097526/content.html)  `国务院国资委`
+- [地下10.3公里闯关过半！西香高速超长隧道迎来重大进展 [10-28]](http://www.sasac.gov.cn/n2588025/n2588129/c36097671/content.html)  `国务院国资委`
+- [山东能源集团打造绿电“智慧大脑” 千万千瓦级风光储能实现智能管控 [10-28]](http://www.sasac.gov.cn/n2588025/n2588129/c36097605/content.html)  `国务院国资委`
+- [【抗震救灾 央企行动】中国中检驰援西藏巴青地震灾区开展房屋安全鉴定 [10-28]](http://www.sasac.gov.cn/n2588025/n2588124/c36097476/content.html)  `国务院国资委`
+- [广西交通投资集团打造“AI+低空物流”新引擎 [10-28]](http://www.sasac.gov.cn/n2588025/n2588129/c36097585/content.html)  `国务院国资委`
+- [经济日报：中央企业着力提升发展质效 [10-28]](http://www.sasac.gov.cn/n2588025/n2588139/c36098518/content.html)  `国务院国资委`
 
 ## 🎓 戏影考研·985
 
@@ -99,46 +94,45 @@
 - [03-11 【哲学研究】彭锋：可识别与不可识别：关于艺术本体论问题的争论](https://art.pku.edu.cn/xsky/xsky_xzgd/be8413d6bbd040118d8d460afbcd201d.htm)  `北京大学艺术学院·动态`
 - [12-16 【光明日报】祝帅：艺术史研究要紧扣“艺术”本体](https://art.pku.edu.cn/xsky/xsky_xzgd/911feec6d3e64228af16679849a4d5df.htm)  `北京大学艺术学院·动态`
 - [《兰香如故》导演黄颖湘回北大，与老师陈宇对谈](https://art.pku.edu.cn/lbtp/111d86bab282414b956a9d7e95e9251d.htm)  `北京大学艺术学院·动态`
-- [东大艺术教育史（三）：从中央大学教育学院艺术专修科到中央大学师范学院艺术学系](https://arts.seu.edu.cn/2026/1019/c71539a586571/page.htm)  `东南大学艺术学院`
-- [东大艺术教育史（二）：从南京高等师范学校工艺专修科到第四中山大学艺术专修科](https://arts.seu.edu.cn/2026/1019/c71539a586569/page.htm)  `东南大学艺术学院`
-- [东大艺术教育史（一）：从三江师范学堂图画手工选科到两江师范学堂图画手工专修科](https://arts.seu.edu.cn/2026/1019/c71539a586546/page.htm)  `东南大学艺术学院`
 
 ## ◆ 大厂活动·比赛
 
-- [中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0](https://www.ifanr.com/1686050?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 最近两个月，Personal Agent 这个概念忽然从边缘话题变成了普通用户手机屏幕上的新图标。 Meta 在 9 月 8 日正式推出 Muse，短短 40 天内下载量突破 1…  `爱范儿`
-- [机器人集合店：有流量，钱难赚](https://www.woshipm.com/embodied/6484709.html) — 机器人集合店越开越多，一年时间从深圳首店扩到全国二十余家、签约覆盖 23 座城市；商场里围观的人挤成一片，真正掏钱的却少，卖体验、租赁还是研学，这笔账目前还不好算清楚。 商场，迎…  `人人都是产品经理`
-- [时隔6年麒麟不再低调！极客湾谈华为韬芯片：轻舟已过万重山 争气芯终于能大方亮相](https://news.mydrivers.com/1/1161/1161101.htm) — 快科技10月28日消息，近日， 华为韬（&tau;）芯片点亮全国多地地标，引发广泛关注。 这也是时隔六年后，麒麟芯片再次亮相户外广告大屏。 日前，B站百大UP主“极客湾”晒出一张…  `快科技`
-- [抖音回应中国互联网进入字节时间：极不严谨 纯属瞎扯](https://news.mydrivers.com/1/1161/1161097.htm) — 快科技10月27日消息，最近网上出现“中国互联网进入字节时间”的说法，相关观点依据是字节系App用户时长首次大幅超过腾讯系，成为全网占据用户上网时间最多的互联网巨头。 对此， 抖…  `快科技`
-- [小米 REDMI 首款耳夹式耳机 Clip Neo 开售：单耳 5.3g 重，国补价 359.15 元](https://www.ithome.com/1/018/639.htm) — IT之家 10 月 27 日消息，小米 REDMI 品牌首款耳夹式耳机 Clip Neo 现已开售，定价为 399 元，叠加国补后 359.15 元，京东补贴后 339.15 元…  `IT之家`
-- [设计借鉴华为！苹果首款折叠屏iPad已在路上](https://news.mydrivers.com/1/1161/1161109.htm) — 苹果正在研发一款超大尺寸可折叠iPad，展开后的屏幕尺寸预计达到18至20英寸，最早有望于2028年推出。如果消息属实，这款产品将打破传统平板的形态限制，尝试将平板电脑与笔记本电…  `快科技`
-- [别再说没人看电视 我国智能电视月活突破3亿 小米第一](https://news.mydrivers.com/1/1161/1161095.htm) — 快科技10月27日消息，不少人觉得现在大家都抱着手机，电视已经被冷落。 然而最新行业数据显示， 国内智能电视月活跃设备已经突破3亿台，家庭大屏依旧有很高人气。 这份统计数据来自Q…  `快科技`
-- [到手429元 小米首款AI夜景增强摄像头发布：昼夜各用一只眼](https://news.mydrivers.com/1/1161/1161084.htm) — 快科技10月27日消息， 小米智能摄像机 5 Pro全彩夜视正式亮相，建议零售价599元，到手429元。 它采用双镜头方案，白天、夜晚分开使用不同镜头，主打弱光环境下的全彩监控。…  `快科技`
+- [腾讯网盘实测：跳出容量竞赛，大厂押注Agent存储](https://www.woshipm.com/ai/6485432.html) — 腾讯正在内测「腾讯网盘」，定位不再是文件仓库，而是多 Agent 的统一记忆底座，可连接腾讯文档、WorkBuddy 等智能体，让多个 AI 在同一份资料上协同工作。实测下来，长…  `人人都是产品经理`
+- [苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道](http://www.geekpark.net/news/372952) — Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次…  `极客公园`
+- [腾讯推出AI大会员，还是熟悉的QQ味道](https://www.woshipm.com/ai/6485853.html) — 不得不说，在卖会员这件事上，腾讯真是老玩家了。 20多年前，我们上QQ聊天，为了让昵称变红、等级升得快一点，心甘情愿掏钱开QQ会员。 后来又有红钻、黄钻、绿钻、超级会员、大会员。…  `人人都是产品经理`
+- [WPS超级会员3年+京东PLUS年卡/网易云/优酷年卡238元](https://news.mydrivers.com/1/1161/1161374.htm) — 京东【WPS旗舰店】 WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，券后实付 268 元赠 30 元电影券包。 下单前加入店铺会员，付款后可兑换…  `快科技`
+- [短短一周时间里 B站被DeepSeek狠狠入侵了](https://news.mydrivers.com/1/1161/1161418.htm) — 这几天的 B 站，爆发了一场鱼灾。 如果你仔细观察就会发现，最近很多视频的评论区中，出现了大量头像整齐划一， ID 均以 XXX 的肥鱼命名的账号。 表面上是围绕视频内容在聊，但…  `快科技`
+- [AI洗牌财富榜：张一鸣6700亿、梁文锋2800亿](https://www.woshipm.com/share/6485281.html) — 2026胡润百富榜上，张一鸣以6700亿元第二次成为中国首富，梁文锋凭2800亿元首次上榜就排到第七。AI 方向的企业家已占上榜者10.4%，但账面财富涨得快，不等于企业赚到了同…  `人人都是产品经理`
+- [榜单观察 米哈游三剑客财富合计超2600亿，腾讯网易双巨头缩水上千亿](https://www.youxituoluo.com/535001.html)  `游戏陀螺`
+- [腾讯AI压力来到微信小微](https://www.tmtpost.com/8184625.html) — （本文作者为 海克财经，钛媒体经授权发布） 文丨海克财经 许俊浩 全球AI持续迭代，头部玩家仍在沿着模型与产品两条线并行提速。 国内互联网大厂腾讯近期频密动作已引得业界更多关注。…  `钛媒体`
 
 ## ▶ AI 应用开发竞赛
 
-- [大肥鱼成精了！Deepseek在自己刷视频？](https://www.woshipm.com/ai/6483957.html) — 当AI学会自己发视频、写评论、回私信，短视频平台被“大肥鱼”们成建制攻占。本文从“养鱼引擎”的爆火切入，深度剖析AI人格化背后的算力成本与记忆重置困境，并借一位福建老哥的亲身实验…  `人人都是产品经理`
-- [AI赋能 智行致远｜第八届中国研究生人工智能创新大赛全国总决赛在济南顺利举行](https://cpipc.acge.org.cn/pw/news/detail/2c908019a160f21301a17ba1f98a5efc?page=0)  `中国研究生创新实践系列大赛`
+- [招 Agent 工程师，为什么张口就是 LangChain？](https://www.woshipm.com/ai/6485427.html) — 招聘 Agent 工程师，JD 第一行常写「熟悉 LangChain」。这个 2022 年 10 月才开源的项目，四年间从工具库长成 Agent 工程体系，它究竟解决了什么问题，…  `人人都是产品经理`
+- [腾讯网盘实测：跳出容量竞赛，大厂押注Agent存储](https://www.woshipm.com/ai/6485432.html) — 腾讯正在内测「腾讯网盘」，定位不再是文件仓库，而是多 Agent 的统一记忆底座，可连接腾讯文档、WorkBuddy 等智能体，让多个 AI 在同一份资料上协同工作。实测下来，长…  `人人都是产品经理`
+- [我用 WorkBuddy 给全家做了一个生活管理后台，全套技能开源！](https://www.woshipm.com/ai/6485617.html) — 日记、记账、读书笔记、凭证、健康档案、电脑体检，六件家庭杂事被收进一个聊天框，数据全部存在腾讯文档里，家里人在手机上发一句话就能记，电脑关着也照样查得到。整套技能已经全开源。 我…  `人人都是产品经理`
+- [Seedance 2.5上线了，这个编导Skill帮你一键精准出片！](https://www.woshipm.com/ai/6485495.html) — Seedance 2.5 视频效果惊艳但成本高昂，抽卡几次就可能烧掉数百元。本文分享一个视频脚本生成 Skill，只需输入目标和素材，Agent 就能自动产出带时间戳分镜、素材引…  `人人都是产品经理`
+- [公开裁员拿钱走人，变相裁员背后伤人](https://www.woshipm.com/zhichang/6485376.html) — 微软6万人“明裁”N+7看似体面，但更多企业正用“暗裁”套路逼你主动离职。从冷落边缘化到绩效PUA，从诱导谈话到调岗降薪，一套组合拳让你分文补偿拿不到。本文通过两个真实案例，拆解…  `人人都是产品经理`
+- [Skyeye 云企业级AI+零代码智能制造系统-AI应用 - v4.1.9发布](https://www.oschina.net/news/503255) — Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多…  `开源中国`
 
 ## ◉ AI 3D / 游戏开发
 
-- [国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6](https://www.qbitai.com/2026/10/505694.html) — 国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6
- <img src="http://www.qbitai.com/wp-content/themes/liang…  `量子位·资讯`
-- [耻辱2关卡设计师 Steve Lee 游戏开发频道：介绍](https://www.indienova.com/indie-game-development/intro-to-my-level-design-game-dev-channel)  `indienova`
+- [左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场](http://www.geekpark.net/news/372939) — 作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几…  `极客公园`
+- [EVEngine - 面向 AI Agent 的轻量游戏引擎](https://www.oschina.net/p/EVEngine) — EVEngine 是一款非常适合 Agent 自己迭代造游戏的引擎 EVEngine ，核心优势有 3 个： 1. 随时热重载 - 脚本更新、资源更新不用等，立马就刷新，修改迭代…  `开源中国`
 - [RenderJuice Blender Animation & Programmatic Rendering Contest](https://programmatic-rendering-contest.devpost.com) — 地点：New York, NY · 赛期：Oct 14 - 31, 2026 · 奖金：$ 1,500 · 报名：62 人 · 主题：Design / Music/Art / O…  `Devpost 黑客松`
-- [本周 Steam 值得关注的游戏 06.16 - 06.22（五）](https://www.indienova.com/indie-game-news/guide-2025-0616-0622-part-5)  `indienova`
-- [《太吾》《家长》凭什么爆火？浅谈从文化的角度做游戏设计](https://www.indienova.com/indie-game-news/taiwu-chinese-parents-and-culture)  `indienova`
-- [恐怖游戏爱好者集合！Steam尖叫游戏节开启](https://www.gcores.com/articles/221525) — Steam 尖叫游戏节，是 Steam 一年一度的万圣恐怖主题游戏节，集结恐怖、惊悚、怪诞万圣向作品。第5届尖叫游戏节现已开启，活动从北京时间10月27日凌晨1点，持续至11月3…  `机核 GCORES`
-- [Steam 新品节已结束，但试玩版将继续开放！](https://www.gcores.com/articles/221519) — Steam 新品节已正式落幕，我们要向过去一周里踏入 末世神枪 世界的每一位玩家献上诚挚的感谢！  `机核 GCORES`
-- [资讯 Steam 新品节特刊：2026 年 2 月（上）](https://www.indienova.com/indie-game-news/steam-next-fest-2026-2-part-1)  `indienova`
+- [Epic宣布将允许AI使用虚幻引擎和MetaHuman输出训练](https://www.gcores.com/articles/221590) — Epic 首席执行官蒂姆·斯威尼宣布， 公司将修改最终用户许可协议以允许开发者使用虚幻引擎和 MetaHuman 的输出结果训练人工智能。此前，媒体批评 Epic 在人工智能开发…  `机核 GCORES`
+- [本周 Steam 值得关注的游戏 10.26 - 11.01（一）](https://www.indienova.com/indie-game-news/guide-2026-1026-1101-part-1)  `indienova`
+- [资讯 诺娃独立游戏通讯 2021-#5](https://www.indienova.com/indie-game-news/nova-post-2021-5)  `indienova`
+- [本周 Steam 值得关注的游戏 05.19 - 05.25（四）](https://www.indienova.com/indie-game-news/guide-2025-0519-0525-part-4)  `indienova`
+- [一款韩式独立游戏，为什么值得花五年时间制作？](https://www.gcores.com/articles/221601) — 距离小行星撞击地球，只剩下六个月。这条路，你还会一个人走吗？  `机核 GCORES`
 
 ## ❖ AI 影游·互动影像
 
 - [红色文化创意设计专项](https://www.cdec.org.cn/articleDetail/2542)  `好创意数字艺术大赛`
 - [《蓝皮书》在第83届威尼斯国际电影节华语电影全球推广活动首发现场](https://art.pku.edu.cn/lbtp/1542d1932d5d420b802815d9bf52e2be.htm)  `北京大学艺术学院·动态`
 - [第2届数智音舞创新专项赛丨第20届好创意 03-25 2026](https://www.cdec.org.cn/articleDetail/2291)  `好创意数字艺术大赛`
-- [网传红果短剧年收入逼近400亿元 比国内电影票房还高？官方辟谣：数据不实](https://news.mydrivers.com/1/1161/1161087.htm) — 快科技10月27日消息，今日晚间，红果短剧官方账号发布《关于网传“红果短剧年收入400亿”等不实信息的声明》。 声明中， 对近日网络上集中出现的“红果短剧年化收入逼近400亿元”…  `快科技`
-- [AI短剧：流水线上的打工人不得不说的秘密](https://www.tmtpost.com/8183174.html) — （本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直…  `钛媒体`
-- [红果短剧：网传“年收入400亿”等为不实信息](https://www.36kr.com/newsflashes/4044094208136073) — 36氪获悉，红果短剧发布关于网传“红果短剧年收入400亿”等不实信息的声明称，近日，网络上集中出现“红果短剧年化收入逼近400亿元”“红果短剧今年营收达420亿至450亿元”等说…  `36氪·快讯`
-- [红果短剧：网传“红果短剧年收入 400 亿”等为不实信息](https://www.ithome.com/1/018/649.htm) — IT之家 10 月 27 日消息，红果短剧官方账号发布声明，否认了网络上流传的“年化收入逼近 400 亿元”“今年营收达 420 亿至 450 亿元”等说法。
- 红果短剧官方声明…  `IT之家`
-- [短剧版多邻国来了，让追剧上头变成语言学习动力](https://www.woshipm.com/ai/6484959.html) — 一两分钟一集的英语短剧，关键台词前停下让你选答案、开口说，答完再回到剧情；ReelFluent 把背单词计划换成追剧上瘾，单词、笔记和课程都留在剧集旁边，看完随时能复习。 剧情互…  `人人都是产品经理`
+- [苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道](http://www.geekpark.net/news/372952) — Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次…  `极客公园`
+- [短剧的通胀危机：为何AI没有让内容生意更好赚钱？](https://www.tmtpost.com/8184741.html) — 图片由AI生成 “制作已经没有任何意义了。” 在近期举办的2026阅文创作大会结束后的交流环节，黄浩南发出如此感叹。 而最近让他这种感受更强烈的一件事，是他发现一个初三女生在校用…  `钛媒体`
+- [漫剧产能的囚徒困境](https://www.woshipm.com/ai/6485289.html) — 按5000万播放这条盈亏线算，2026上半年达标的 AI 剧不足1.3%，可头部公司还在加人加算力，灵矩动漫到3月已有800名员工。赌爆款赌的不是这一部的分账，是下一批订单的合作…  `人人都是产品经理`
+- [刷短剧上头！75岁大爷凌晨突发脑梗仍继续观看 耽误救治黄金期](https://www.gamersky.com/news/202610/2236602.shtml)  `游民星空`
+- [青瞳视觉数字造梦专项](https://www.cdec.org.cn/articleDetail/2539)  `好创意数字艺术大赛`
