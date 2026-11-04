@@ -4,601 +4,583 @@
    "name": "量子位",
    "count": 10,
    "total": 10,
-   "ms": 1451,
+   "ms": 1971,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "qbitai-news": {
    "name": "量子位·资讯",
    "count": 10,
    "total": 10,
-   "ms": 3958,
+   "ms": 15394,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "jiqizhixin": {
    "name": "机器之心",
    "count": 0,
    "total": 0,
-   "ms": 1941,
+   "ms": 2433,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "ithome": {
    "name": "IT之家",
    "count": 60,
    "total": 60,
-   "ms": 1469,
+   "ms": 1437,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "infoq": {
    "name": "InfoQ 中文",
    "count": 20,
    "total": 20,
-   "ms": 1856,
+   "ms": 2667,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "sspai": {
    "name": "少数派",
    "count": 10,
    "total": 10,
-   "ms": 1899,
+   "ms": 2198,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "woshipm": {
    "name": "人人都是产品经理",
    "count": 15,
    "total": 15,
-   "ms": 2492,
+   "ms": 3021,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "geekpark": {
    "name": "极客公园",
    "count": 30,
    "total": 30,
-   "ms": 7895,
+   "ms": 3607,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "tmtpost": {
    "name": "钛媒体",
-   "count": 15,
-   "total": 15,
-   "ms": 1945,
+   "count": 19,
+   "total": 19,
+   "ms": 3014,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "ifanr": {
    "name": "爱范儿",
    "count": 20,
    "total": 20,
-   "ms": 1229,
+   "ms": 1443,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "oschina": {
    "name": "开源中国",
    "count": 50,
    "total": 50,
-   "ms": 8774,
+   "ms": 4470,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "36kr-flash": {
    "name": "36氪·快讯",
    "count": 20,
    "total": 20,
-   "ms": 619,
+   "ms": 2675,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "zhihu-daily": {
    "name": "知乎日报",
-   "count": 30,
-   "total": 30,
-   "ms": 1197,
+   "count": 29,
+   "total": 29,
+   "ms": 2954,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "github-trending": {
    "name": "GitHub Trending",
-   "error": "This operation was aborted",
-   "ok": false,
-   "at": "2026-11-03T23:13:20.807Z"
+   "count": 16,
+   "total": 16,
+   "ms": 3757,
+   "ok": true,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "solidot": {
    "name": "Solidot",
    "count": 20,
    "total": 20,
-   "ms": 1260,
+   "ms": 1399,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "mydrivers": {
    "name": "快科技",
    "count": 60,
    "total": 60,
-   "ms": 986,
+   "ms": 753,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "dgtle": {
    "name": "数字尾巴",
    "count": 40,
    "total": 40,
-   "ms": 1652,
+   "ms": 2174,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "openai": {
    "name": "OpenAI News",
    "count": 60,
    "total": 60,
-   "ms": 200,
+   "ms": 117,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "googleai": {
    "name": "Google AI Blog",
    "count": 20,
    "total": 20,
-   "ms": 430,
+   "ms": 309,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "techcrunch-ai": {
    "name": "TechCrunch AI",
    "count": 20,
    "total": 20,
-   "ms": 181,
+   "ms": 75,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "venturebeat-ai": {
    "name": "VentureBeat AI",
    "count": 7,
    "total": 7,
-   "ms": 318,
+   "ms": 262,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "verge-ai": {
    "name": "The Verge AI",
    "count": 10,
    "total": 10,
-   "ms": 106,
+   "ms": 108,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "mittr-ai": {
    "name": "MIT Tech Review AI",
    "count": 10,
    "total": 10,
-   "ms": 190,
+   "ms": 49,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "hn": {
    "name": "Hacker News",
    "count": 20,
    "total": 20,
-   "ms": 583,
+   "ms": 7384,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "xinpianchang": {
    "name": "新片场",
    "count": 12,
    "total": 12,
-   "ms": 1265,
+   "ms": 711,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "xinpianchang-aigc": {
    "name": "新片场·AIGC",
    "count": 0,
    "total": 0,
-   "ms": 646,
+   "ms": 176,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "devpost-1": {
    "name": "Devpost 黑客松",
    "count": 9,
    "total": 9,
-   "ms": 813,
+   "ms": 1482,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "devpost-2": {
    "name": "Devpost 黑客松",
    "count": 9,
    "total": 9,
-   "ms": 380,
+   "ms": 97,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "devpost-3": {
    "name": "Devpost 黑客松",
    "count": 9,
    "total": 9,
-   "ms": 249,
+   "ms": 124,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "devpost-4": {
    "name": "Devpost 黑客松",
    "count": 9,
    "total": 9,
-   "ms": 183,
+   "ms": 157,
    "ok": true,
-   "at": "2026-11-03T23:13:20.807Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "devpost-upcoming": {
    "name": "Devpost 即将开始",
    "count": 9,
    "total": 9,
-   "ms": 147,
+   "ms": 98,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "datafountain": {
    "name": "DataFountain",
-   "error": "This operation was aborted",
-   "ok": false,
-   "at": "2026-11-03T23:13:20.808Z"
+   "count": 30,
+   "total": 30,
+   "ms": 1384,
+   "ok": true,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "cpipc": {
    "name": "中国研究生创新实践系列大赛",
    "count": 8,
    "total": 8,
-   "ms": 2449,
+   "ms": 1860,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "jsjds": {
    "name": "中国大学生计算机设计大赛",
    "count": 19,
    "total": 19,
-   "ms": 4362,
+   "ms": 1702,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "52jingsai": {
    "name": "我爱竞赛网",
    "count": 0,
    "total": 0,
-   "ms": 7286,
+   "ms": 2623,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "52jingsai-sheji": {
    "name": "我爱竞赛网·设计影像",
    "count": 0,
    "total": 0,
-   "ms": 7116,
+   "ms": 2510,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "cdec": {
    "name": "好创意数字艺术大赛",
-   "count": 39,
-   "total": 39,
-   "ms": 3658,
+   "count": 0,
+   "total": 0,
+   "ms": 2108,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "sasac": {
    "name": "国务院国资委",
-   "count": 18,
-   "total": 18,
-   "ms": 4229,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "sasac-gzdt": {
    "name": "国资委·央企动态",
-   "count": 29,
-   "total": 29,
-   "ms": 2970,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "gcores": {
    "name": "机核 GCORES",
-   "count": 30,
-   "total": 30,
-   "ms": 3038,
+   "count": 29,
+   "total": 29,
+   "ms": 2294,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "gcores-radios": {
    "name": "机核·电台",
-   "count": 19,
-   "total": 19,
-   "ms": 2085,
+   "count": 20,
+   "total": 20,
+   "ms": 1759,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "indienova": {
    "name": "indienova",
-   "count": 51,
-   "total": 51,
-   "ms": 2380,
+   "count": 50,
+   "total": 50,
+   "ms": 2186,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "indienova-dev": {
    "name": "indienova·开发",
    "count": 0,
    "total": 0,
-   "ms": 1906,
+   "ms": 1770,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "gamersky": {
    "name": "游民星空",
    "count": 60,
    "total": 60,
-   "ms": 1586,
+   "ms": 1047,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "3dm": {
    "name": "3DM 游戏网",
-   "count": 30,
-   "total": 30,
-   "ms": 1878,
+   "count": 31,
+   "total": 31,
+   "ms": 1813,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "youxituoluo": {
    "name": "游戏陀螺",
-   "count": 30,
-   "total": 30,
-   "ms": 2075,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "cdpf-news": {
    "name": "中国残联·要闻",
    "count": 20,
    "total": 20,
-   "ms": 2456,
+   "ms": 3108,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "cdpf-local": {
    "name": "中国残联·地方动态",
    "count": 20,
    "total": 20,
-   "ms": 2204,
+   "ms": 2870,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "cdpf-notice": {
    "name": "中国残联·通知公告",
    "count": 13,
    "total": 13,
-   "ms": 3310,
+   "ms": 2832,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "cdpf-ywpd": {
    "name": "中国残联·业务动态",
    "count": 16,
    "total": 16,
-   "ms": 3468,
+   "ms": 2956,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shiyebian": {
    "name": "事业单位招聘网",
    "count": 60,
    "total": 60,
-   "ms": 2200,
+   "ms": 1512,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-ai": {
    "name": "实习僧·AI 实习",
-   "count": 6,
-   "total": 6,
-   "ms": 3647,
+   "count": 5,
+   "total": 5,
+   "ms": 2977,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-jianji": {
    "name": "实习僧·剪辑实习",
    "count": 17,
    "total": 17,
-   "ms": 2648,
+   "ms": 2292,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-youxia": {
    "name": "实习僧·游戏实习",
    "count": 19,
    "total": 19,
-   "ms": 3418,
+   "ms": 3159,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-sheji": {
    "name": "实习僧·设计实习",
    "count": 19,
    "total": 19,
-   "ms": 3179,
+   "ms": 2594,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-yunying": {
    "name": "实习僧·运营实习",
-   "count": 17,
-   "total": 17,
-   "ms": 2699,
+   "count": 16,
+   "total": 16,
+   "ms": 2483,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-chanpin": {
    "name": "实习僧·产品实习",
    "count": 20,
    "total": 20,
-   "ms": 2593,
+   "ms": 3035,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-suanfa": {
    "name": "实习僧·算法实习",
    "count": 19,
    "total": 19,
-   "ms": 2221,
+   "ms": 3178,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "shixiseng-yingshi": {
    "name": "实习僧·影视实习",
    "count": 20,
    "total": 20,
-   "ms": 1022,
+   "ms": 1246,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "yz-kyzx": {
    "name": "研招网·考研资讯",
    "count": 3,
    "total": 3,
-   "ms": 1191,
+   "ms": 3863,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "yz-kydt": {
    "name": "研招网·考研动态",
    "count": 50,
    "total": 50,
-   "ms": 1422,
+   "ms": 3546,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "yz-fstj": {
    "name": "研招网·复试调剂",
    "count": 60,
    "total": 60,
-   "ms": 1227,
+   "ms": 1303,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "yz-tjxx": {
    "name": "研招网·调剂信息",
    "count": 50,
    "total": 50,
-   "ms": 1469,
+   "ms": 2124,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "yz-jybzc": {
    "name": "研招网·教育部政策",
    "count": 60,
    "total": 60,
-   "ms": 1474,
+   "ms": 4129,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "pku-art": {
    "name": "北京大学艺术学院",
    "count": 20,
    "total": 20,
-   "ms": 1553,
+   "ms": 1944,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "pku-art-news": {
    "name": "北京大学艺术学院·动态",
    "count": 31,
    "total": 31,
-   "ms": 1318,
+   "ms": 1383,
    "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "nju-art": {
    "name": "南京大学艺术学院",
-   "count": 12,
-   "total": 12,
-   "ms": 1761,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "whu-art": {
    "name": "武汉大学艺术学院",
-   "count": 19,
-   "total": 19,
-   "ms": 2303,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "xmu-film": {
    "name": "厦门大学电影学院",
    "error": "fetch failed",
    "ok": false,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "ecnu-comm": {
    "name": "华东师大传播学院",
-   "count": 20,
-   "total": 20,
-   "ms": 2548,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "seu-art": {
    "name": "东南大学艺术学院",
-   "count": 40,
-   "total": 40,
-   "ms": 2864,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "nankai-wxy": {
    "name": "南开大学文学院",
-   "count": 37,
-   "total": 37,
-   "ms": 3095,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "csu-art": {
    "name": "中南大学建筑与艺术学院",
    "error": "fetch failed",
    "ok": false,
-   "at": "2026-11-03T23:13:20.808Z"
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "hnu-design": {
    "name": "湖南大学设计艺术学院",
-   "count": 16,
-   "total": 16,
-   "ms": 2499,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "sdu-art": {
    "name": "山东大学艺术学院",
-   "count": 22,
-   "total": 22,
-   "ms": 1828,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   },
   "tongji-sal": {
    "name": "同济大学人文学院",
-   "count": 0,
-   "total": 0,
-   "ms": 2999,
-   "ok": true,
-   "at": "2026-11-03T23:13:20.808Z"
+   "error": "fetch failed",
+   "ok": false,
+   "at": "2026-11-04T23:12:58.819Z"
   }
  },
  "runs": [
@@ -721,14 +703,22 @@
    "added": 479,
    "total": 7081,
    "ms": 45781
+  },
+  {
+   "at": "2026-11-04T23:12:27.314Z",
+   "sources": 76,
+   "fetched": 1418,
+   "added": 436,
+   "total": 7517,
+   "ms": 31644
   }
  ],
  "lastRun": {
-  "at": "2026-11-03T23:12:35.186Z",
+  "at": "2026-11-04T23:12:27.314Z",
   "sources": 76,
-  "fetched": 1653,
-  "added": 479,
-  "total": 7081,
-  "ms": 45781
+  "fetched": 1418,
+  "added": 436,
+  "total": 7517,
+  "ms": 31644
  }
 }
