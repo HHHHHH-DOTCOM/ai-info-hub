@@ -1,89 +1,91 @@
-# 每日情报晨报 · 2026-11-11
+# 每日情报晨报 · 2026-11-12
 
-> 共 629 条更新，覆盖 12 类关注点。生成于 2026/11/11 07:08:38
+> 共 498 条更新，覆盖 12 类关注点。生成于 2026/11/12 07:18:24
 
 ## ⏰ 即将截止
 
-- **2 天后截止** · [PayPal AI Hackathon](https://paypalaihackathon.devpost.com) — Devpost 黑客松
-- **4 天后截止** · [Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration](https://scope-ai-thon-2026.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [DSH Hacks V2 ($100k+ in prizes!)](https://dsh-hacks-v2.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [UGREEN Hackathon 2026 on AI NAS](https://ugreenhackathon.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [STEMergent Hacks 2026](https://stemergent-hacks.devpost.com) — Devpost 即将开始
-- **6 天后截止** · [IceHacks](https://icehacks.devpost.com) — Devpost 即将开始
-- **7 天后截止** · [Green Shift Hacks](https://green-shift-hacks.devpost.com) — Devpost 黑客松
-- **8 天后截止** · [Meta VR Start Developer Competition 2026](https://start-developer-competition-26.devpost.com) — Devpost 黑客松
-- **10 天后截止** · [AccessED Hacks](https://accessed-hacks.devpost.com) — Devpost 黑客松
-- **10 天后截止** · [LaunchPad Hacks](https://launchpad-hacks.devpost.com) — Devpost 黑客松
+- **1 天后截止** · [PayPal AI Hackathon](https://paypalaihackathon.devpost.com) — Devpost 黑客松
+- **1 天后截止** · [Build, Demo, and Take Home a Working AI Support Bot](https://build-a-working-ai-support-bot.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration](https://scope-ai-thon-2026.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [DSH Hacks V2 ($100k+ in prizes!)](https://dsh-hacks-v2.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [UGREEN Hackathon 2026 on AI NAS](https://ugreenhackathon.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [STEMergent Hacks 2026](https://stemergent-hacks.devpost.com) — Devpost 即将开始
+- **4 天后截止** · [IceHacks](https://icehacks.devpost.com) — Devpost 即将开始
+- **6 天后截止** · [Green Shift Hacks](https://green-shift-hacks.devpost.com) — Devpost 黑客松
+- **7 天后截止** · [Meta VR Start Developer Competition 2026](https://start-developer-competition-26.devpost.com) — Devpost 黑客松
+- **9 天后截止** · [AccessED Hacks](https://accessed-hacks.devpost.com) — Devpost 黑客松
 
 ## ✦ AIGC 前沿
 
-- [OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告](https://www.ithome.com/1/025/206.htm) — IT之家 11 月 11 日消息，当地时间 11 月 10 日，OpenAI 宣布推出 ChatGPT Businesses 测试版，为企业提供商家信息认领、资料管理、用户互动数…  `IT之家`
-- [Claude Fable 5.2 实测，DeepSeek、Kimi K3.1 迎战](https://www.woshipm.com/ai/6491795.html) — 同一段提示词，丢给 Claude Opus 5.5、Fable 5.2、Kimi K3.1 Pro 和 DeepSeek V4.1 Flash，各生成一段动效视频介绍新模型。从成…  `人人都是产品经理`
-- [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google) — OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of …  `TechCrunch AI`
-- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](https://www.ifanr.com/1688790?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 今年 8 月，MiniMax 开放了 H3 视频生成模型的权重，这是有史以来第一个达到 SOTA 水平的开源视频模型。 此后几个月，社区基于它玩出的花样远超官方演示，也催生了 H…  `爱范儿`
-- [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](http://www.geekpark.net/news/373736) — 8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20% 11 月 10 日消息， Ant…  `极客公园`
-- [Agentic Hackathon](https://agentic-hackathon.devpost.com) — 地点：Online · 赛期：Nov 01 - 10, 2026 · 奖金：$ 480 · 报名：141 人 · 主题：Machine Learning/AI / Open En…  `Devpost 黑客松`
-- [Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！](https://www.woshipm.com/ai/6491698.html) — 阿真用即梦实测 Seedream 5.5：同一张图连编 20 轮仍能保持一致，还能直出透明 PNG、把图层拆开改文字。她把多轮编辑、小字排版、真实光影逐项和 GPT Image …  `人人都是产品经理`
-- [接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定](https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [Claude Fable 5.2证明了，AI可以靠代码吞噬一切。](https://www.woshipm.com/ai/6492118.html) — 同一段提示词，Fable 5.2跑出的庆生视频和灯塔小渔港，静态帧就能看出差别。它用4800行Python调Blender建完整个3D场景，审美成了新benchmark。 Cla…  `人人都是产品经理`
+- [用Grok Bot搭建选品作战小组：7×24小时自动跑完「竞品分析-产品改进」一条龙！](https://www.woshipm.com/ai/6492254.html) — 跨境卖家的数字员工团队再升级！本文手把手教你用 Grok Bot 搭配卖家精灵 MCP，搭建由总助统筹、竞品情报与用户反馈分工协作的亚马逊选品作战小队。从竞品拆解到评论挖矿，一套…  `人人都是产品经理`
+- [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](https://www.qbitai.com/2026/11/509032.html) — 英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天
+ <img src="http://www.qbitai.com/wp-content/themes/…  `量子位`
+- [阿里养了只鸭子，MiniMax放只兔子](https://www.woshipm.com/ai/6492469.html) — 阿里把千问4藏进Qoder匿名测试四天，揭晓后主打编程与专业软件操作，还打出限时2折。可当腾讯、MiniMax甚至海外厂商同步押注相似场景，模型跑分第一已难换用户迁移。本文拆解这…  `人人都是产品经理`
+- [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time) — Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the compa…  `TechCrunch AI`
+- [派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等](https://sspai.com/post/118905) — 卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文  `少数派`
+- [Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT](https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [卷起来了！11月11日，大模型厂商在天猫打5折](https://www.qbitai.com/2026/11/509085.html) — 大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。  `量子位`
 
 ## ⚙ AIGC 技巧与做法
 
-- [实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了](https://www.ifanr.com/1688790?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 今年 8 月，MiniMax 开放了 H3 视频生成模型的权重，这是有史以来第一个达到 SOTA 水平的开源视频模型。 此后几个月，社区基于它玩出的花样远超官方演示，也催生了 H…  `爱范儿`
-- [规模化分享我 Vibe-Coding 的提示词](https://www.woshipm.com/ai/6491716.html) — 今年 Vibe-Coding 了大几十个产品后，结论很直接：分享产品没意义，不如分享 Prompt。于是一个客户端加一个小程序被搓了出来，把与 Agent 的聊天记录整理成可分享…  `人人都是产品经理`
-- [Seedream 5.5 全量上线，多轮编辑能力里程碑级别，海量案例分享！](https://www.woshipm.com/ai/6491698.html) — 阿真用即梦实测 Seedream 5.5：同一张图连编 20 轮仍能保持一致，还能直出透明 PNG、把图层拆开改文字。她把多轮编辑、小字排版、真实光影逐项和 GPT Image …  `人人都是产品经理`
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) — Configure and automa…  `GitHub Trending`
-- [鸡蛋煮熟后，蛋黄边缘为什么会出现灰绿色？](https://daily.zhihu.com/story/9793879) — <h2 c…  `知乎日报`
-- [为什么鱼龙已经进化出完美的流水线身体，还会被身体像蛇的沧龙所取代?](https://daily.zhihu.com/story/9793891) — <h2 c…  `知乎日报`
-- [钻石明明很硬，为什么受到撞击仍容易碎裂？](https://daily.zhihu.com/story/9793886) — <h2 c…  `知乎日报`
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — <img src="https://opengraph.githubassets.com/5514ec8f276d105bb0f4c8c70c1c4665f035a85aaaf4…  `GitHub Trending`
+- [Claude Fable 5.2证明了，AI可以靠代码吞噬一切。](https://www.woshipm.com/ai/6492118.html) — 同一段提示词，Fable 5.2跑出的庆生视频和灯塔小渔港，静态帧就能看出差别。它用4800行Python调Blender建完整个3D场景，审美成了新benchmark。 Cla…  `人人都是产品经理`
+- [用Grok Bot搭建选品作战小组：7×24小时自动跑完「竞品分析-产品改进」一条龙！](https://www.woshipm.com/ai/6492254.html) — 跨境卖家的数字员工团队再升级！本文手把手教你用 Grok Bot 搭配卖家精灵 MCP，搭建由总助统筹、竞品情报与用户反馈分工协作的亚马逊选品作战小队。从竞品拆解到评论挖矿，一套…  `人人都是产品经理`
+- [阿里养了只鸭子，MiniMax放只兔子](https://www.woshipm.com/ai/6492469.html) — 阿里把千问4藏进Qoder匿名测试四天，揭晓后主打编程与专业软件操作，还打出限时2折。可当腾讯、MiniMax甚至海外厂商同步押注相似场景，模型跑分第一已难换用户迁移。本文拆解这…  `人人都是产品经理`
+- [派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等](https://sspai.com/post/118905) — 卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文  `少数派`
+- [AI 时代的浪花：Coze 从开源到下线没撑过一年](https://www.woshipm.com/ai/6492136.html) — 10月29日Coze企业版宣布全面下线，社群和朋友圈都炸了。今年5月专业版停服、30款模型分批下架，这个节奏早有预兆：拖拽节点在替模型的笨买单，工作流只是过渡形态。 10.29 …  `人人都是产品经理`
+- [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811) — Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agen…  `Hacker News`
+- [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval) — Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: ht…  `Hacker News`
+- [OwnCoder 0.2.0 发布，面向开发者的桌面端 AI 编程工具](https://www.oschina.net/news/503518) — 修复了一些bug，优化了效果。 有时候我们总想多做点什么，告诉LLM要怎么做，最后发现，什么都不说，让LLM自行判断才是最好的。说的越多，越容易带偏。 佛家说，放下自己的执着。 …  `开源中国`
 
 ## ⚡ 全球 AI 黑客松
 
+- [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com) — 地点：Online · 赛期：Nov 02 - Dec 11, 2026 · 奖金：$ 64,000 · 报名：14 人 · 主题：Machine Learning/AI / P…  `Devpost 黑客松`
+- [Reddit’s Daily Games Hackathon](https://redditgameofday2026.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 08, 2026 · 奖金：$ 35,000 · 报名：243 人 · 主题：Beginner Friendly / Ga…  `Devpost 黑客松`
+- [AI OpenBuild](https://ai-openbuild.devpost.com) — 地点：Online · 赛期：Nov 05 - Dec 10, 2026 · 奖金：$ 150 · 报名：69 人 · 主题：Beginner Friendly / Machin…  `Devpost 黑客松`
 - [2026-2027 Fall ESE Senior Design](https://ese4500f26.devpost.com) — 地点：Amy Gutman Hall · 赛期：Sep 22 - Dec 07, 2026 · 奖金：$ 0 · 报名：102 人 · 主题：AR/VR / Fintech / …  `Devpost 黑客松`
 - [Deck the Pixels](https://deckthepixels.devpost.com) — 地点：Online · 赛期：Nov 10 - Dec 07, 2026 · 奖金：$ 25,000 · 报名：145 人 · 主题：Design / Machine Learn…  `Devpost 黑客松`
 - [SLAY HACKS](https://slayy-hacks.devpost.com) — 地点：Online · 赛期：Nov 07 - Dec 07, 2026 · 奖金：$ 4,500 · 报名：80 人 · 主题：Beginner Friendly / Open…  `Devpost 黑客松`
 - [Kiroween 2026](https://kiroween.devpost.com) — 地点：Online · 赛期：Oct 30 - Dec 04, 2026 · 奖金：$ 100,000 · 报名：689 人 · 主题：Beginner Friendly / M…  `Devpost 即将开始`
-- [ML Empowerment Build Challenge 4.0](https://ml-build-challenge-4.devpost.com) — 地点：Online · 赛期：Nov 01 - Dec 02, 2026 · 奖金：$ 0 · 报名：93 人 · 主题：Beginner Friendly / Machine …  `Devpost 黑客松`
-- [Build Your First AI App](https://build-your-first-ai-app.devpost.com) — 地点：Online · 赛期：Oct 27 - Nov 27, 2026 · 奖金：$ 0 · 报名：49 人 · 主题：Education / Machine Learning…  `Devpost 黑客松`
-- [STEM2Connect AI Hackathon](https://stem2connect-online-hackathon.devpost.com) — 地点：Online · 赛期：Oct 17 - Nov 21, 2026 · 奖金：$ 0 · 报名：65 人 · 主题：Beginner Friendly / Educatio…  `Devpost 黑客松`
-- [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com) — 地点：Online · 赛期：Oct 29 - Nov 30, 2026 · 奖金：$ 100 · 报名：61 人 · 主题：Beginner Friendly / Open E…  `Devpost 黑客松`
+- [#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com) — 地点：Online · 赛期：Nov 09 - 30, 2026 · 奖金：$ 10,000 · 报名：124 人 · 主题：Machine Learning/AI · 主办：G…  `Devpost 即将开始`
 
 ## ✂ 剪辑技巧
 
-- [Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp) — Adobe is taking on Figma with a new prototype builder tool in Firefly.  `TechCrunch AI`
-- [Photoshop, Lightroom, and Premiere are making it easier to remove things](https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates) — Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities …  `The Verge AI`
-- [「全AI」汤臣倍健 | 在南极找星星的人](https://www.xinpianchang.com/a13867989?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=1)  `新片场`
-- [《村口的小石头》亚军作品「金鸡·两岸AI影像计划Shotlab无限创作赛」](https://www.xinpianchang.com/a13868826?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
-- [《借一场梦》-shotlab两岸AI影像计划 铜奖](https://www.xinpianchang.com/a13870081?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
-- [《彩水沸腾》评委选择奖「金鸡·两岸AI影像计划Shotlab无限创作赛」](https://www.xinpianchang.com/a13869484?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
-- [皇冠威士忌视觉大片！一镜到底跨越90年历史](https://www.xinpianchang.com/a13863207?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=5)  `新片场`
-- [历久弥新，生而野性：当福特Ford Bronco 遇上 Filson](https://www.xinpianchang.com/a13868757?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=6)  `新片场`
+- [11.11 倒数 20 分钟：会员年卡狂促汇总，bilibili 爱奇艺 QQ 音乐腾讯视频 WPS 剪映皆年内好价](https://www.ithome.com/1/025/805.htm) — 11.11 会员狂促倒数 2 小时，皆为年内好价。
+ 京东 无门槛红包至高 26888 元 ，每天抽 3 次：<a href="…  `IT之家`
+- [信息流剪辑](https://www.shixiseng.com/intern/inn_7rwghrqysigi)  `实习僧·剪辑实习`
+- [《风骨》奥运攀岩广告！视觉隐喻美学](https://www.xinpianchang.com/a13870097?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=1)  `新片场`
+- [Hyundai 现代汽车 | 献礼沙特 96 周年国庆](https://www.xinpianchang.com/a13865575?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
+- [《今日庇佑已到账》｜两岸AI影像计划Shotlab 无限创作赛【潜力奖】作品](https://www.xinpianchang.com/a13867625?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
+- ["cry as a baby" | 维达开学季 DIR](https://www.xinpianchang.com/a13866695?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
+- [《信号抵达之后》两岸AI影像计划Shotlab 无限创作赛【评委选择奖】作品](https://www.xinpianchang.com/a13870229?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=5)  `新片场`
+- [RIMOWA 梦幻短片《Tides》| 当行李箱化作通往旷野的门](https://www.xinpianchang.com/a13865127?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=6)  `新片场`
 
 ## ♿ 残障大学生成长
 
-- [“输血”变“造血” ,四川省广元市昭化区多元帮扶破解残疾人就业难](https://www.cdpf.org.cn/xwzx/dfdt1/f0372646f3324d83bb23ae40d4a358a6.htm)  `中国残联·地方动态`
-- [四川峨眉山：科技“充电”助困难残疾人增收致富](https://www.cdpf.org.cn/xwzx/dfdt1/bd84c31351ab44179f28cce3bfd5be5b.htm)  `中国残联·地方动态`
-- [安徽省第九届残疾人运动会圆满闭幕](https://www.cdpf.org.cn/xwzx/dfdt1/bad525dcc1c145c8a38f94eacb112ede.htm)  `中国残联·地方动态`
-- [设计 三次通达机制（Tri-accessibility）与沉浸感的建立](https://www.indienova.com/indie-game-development/tri-accessibility-and-immersion)  `indienova`
-- [游戏无障碍设计参考：语音篇](https://www.indienova.com/indie-game-development/game-accessibility-guidelines-speech)  `indienova`
-- [安徽省第九届残疾人运动会在宿州开幕](https://www.cdpf.org.cn/xwzx/dfdt1/3f2b43b59ad84f448da5122ba157b0ac.htm)  `中国残联·地方动态`
+- [广西残联开拓“文旅+助残”残疾人就业增收新路径](https://www.cdpf.org.cn/xwzx/dfdt1/a4f5ab71891e4162af8bd39257714505.htm)  `中国残联·地方动态`
+- [拓宽残疾人就业渠道！广东省东莞市残联开展无人机技能培训](https://www.cdpf.org.cn/xwzx/dfdt1/62ade65c2c594c39b23f1a29e8159ff9.htm)  `中国残联·地方动态`
+- [广东省广州市番禺区残联多举措助力残疾人就业创业](https://www.cdpf.org.cn/xwzx/dfdt1/e6ceb0254b6249e49d3881a34360645b.htm)  `中国残联·地方动态`
+- [湖南省残联党组书记、理事长黄进良参观第二十七届中国中部（湖南）农业博览会“融爱湖湘·共赴美好”助残展区](https://www.cdpf.org.cn/xwzx/dfdt1/ea10b3d9926642a2aae9ce9a96ce9d3b.htm)  `中国残联·地方动态`
+- [贵州省残联党组成员、副理事长李泽方到遵义市宣讲党的二十届五中全会精神并调研残疾人工作](https://www.cdpf.org.cn/xwzx/dfdt1/c2b534eddc7642dcb9fcab1afb5fc089.htm)  `中国残联·地方动态`
+- [“友好友善·自强自立”湖南省残疾人和助残先进事迹巡回宣讲报告会走进湖南师范大学](https://www.cdpf.org.cn/xwzx/dfdt1/016ebe5528de4792918ef3ce9dd6bd0d.htm)  `中国残联·地方动态`
+- [“十四五”期间，广东茂名完成5700余户困难重度残疾人家庭无障碍改造](https://www.cdpf.org.cn/xwzx/dfdt1/88dc41928cfb44a79ce57ff236e5a1a5.htm)  `中国残联·地方动态`
+- [海南举办2026年度盲人按摩人员继续教育和临床技能提高培训班](https://www.cdpf.org.cn/xwzx/dfdt1/0fc5874058ab4425b254eff19b743fcd.htm)  `中国残联·地方动态`
 
 ## ◈ 实习机会
 
-- [游戏营销策划实习生](https://www.shixiseng.com/intern/inn_pcdgezrdetva)  `实习僧·游戏实习`
-- [-运营/运营实习生-网约车平台公司](https://www.shixiseng.com/intern/inn_diokbbhux3ho)  `实习僧·运营实习`
-- [全栈工程师](https://www.shixiseng.com/intern/inn_brguw3koqvkx)  `实习僧·AI 实习`
+- [应用实习生](https://www.shixiseng.com/intern/inn_x4upidqkvw70)  `实习僧·AI 实习`
 
 ## ⛨ 考公·考编·央国企
 
-- [南开大学文学院博士后岗位招聘公告](https://wxy.nankai.edu.cn/2024/1016/c15655a553165/page.htm)  `南开大学文学院`
-- [【进博时间】新兴际华集团本届进博会签约金额超4亿美元 [11-10]](http://www.sasac.gov.cn/n2588025/n2588124/c36148548/content.html)  `国务院国资委`
-- [【进博时间】中国石油第九届进博会签约金额超188亿美元 [11-10]](http://www.sasac.gov.cn/n2588025/n2588124/c36165931/content.html)  `国务院国资委`
-- [【进博时间】国家能源集团第九届进博会采购金额达27.96亿美元 [11-10]](http://www.sasac.gov.cn/n2588025/n2588124/c36166354/content.html)  `国务院国资委`
-- [【进博时间】7项签约！中核集团这场活动“智”量很高 [11-10]](http://www.sasac.gov.cn/n2588025/n2588124/c36165333/content.html)  `国务院国资委`
-- [多点开花 广西交通投资集团加速交通项目建设 [11-10]](http://www.sasac.gov.cn/n2588025/n2588129/c36164543/content.html)  `国务院国资委`
-- [山东港口日照港畅通能源供给“大动脉” [11-10]](http://www.sasac.gov.cn/n2588025/n2588129/c36164645/content.html)  `国务院国资委`
-- [【企步新长征】从瑞金到北京：红色印刷火种的长征与新生 [11-09]](http://www.sasac.gov.cn/n2588025/n2588124/c36148798/content.html)  `国务院国资委`
+- [【进博时间】中盐集团参加第九届进博会并完成集中签约 [11-11]](http://www.sasac.gov.cn/n2588025/n2588124/c36171484/content.html)  `国务院国资委`
+- [【进博时间】南光集团九载赴约进博会 多领域签约共谋发展 [11-11]](http://www.sasac.gov.cn/n2588025/n2588124/c36166287/content.html)  `国务院国资委`
+- [【进博时间】九载进博同行 哈电全球合作“朋友圈”再扩容 [11-11]](http://www.sasac.gov.cn/n2588025/n2588124/c36165210/content.html)  `国务院国资委`
+- [投资10亿项目将落地阿拉山口 四川西向开放再添新枢纽 [11-11]](http://www.sasac.gov.cn/n2588025/n2588129/c36170897/content.html)  `国务院国资委`
+- [向绿而行 以新提质 山东省属企业加快绿色低碳转型 [11-11]](http://www.sasac.gov.cn/n2588025/n2588129/c36171889/content.html)  `国务院国资委`
+- [【进博时间】通用技术集团进博会签约超7亿美元 [11-11]](http://www.sasac.gov.cn/n2588025/n2588124/c36170747/content.html)  `国务院国资委`
+- [武汉天河机场东湖航站楼正式启用 [11-11]](http://www.sasac.gov.cn/n2588025/n2588129/c36171402/content.html)  `国务院国资委`
+- [央视网：第九届进博会签约成果“抢眼” 央企不断签下大单 采购金额已超千亿美元](http://www.sasac.gov.cn/n2588025/n2588139/c36172297/content.html)  `国务院国资委`
 
 ## 🎓 戏影考研·985
 
@@ -98,50 +100,47 @@
 
 ## ◆ 大厂活动·比赛
 
-- [接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定](https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
-- [刘强东也做短剧了](https://www.woshipm.com/it/6491711.html) — 刘强东也来抢短剧生意了。 据AI星球报道，京东最近正在内测一款短剧产品，名字叫“京东追剧福利社”。 目前，这款产品已经在微信小程序上架，可以直接搜索体验。在京东APP里底部菜单【…  `人人都是产品经理`
-- [全国首个拥有“身份证”的数字人组合！京东5位AI主播明晚正式开播](https://news.mydrivers.com/1/1164/1164685.htm) — 快科技11月10日消息，在北京经济技术开发区信息技术产业局指导下，京东数字人JoyAvatar联合京东家电家居事业群发起的“我AI我家·星主播”大赛正式收官。 赛事共决出13位获…  `快科技`
-- [国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼](https://www.ithome.com/1/025/152.htm) — 【京东活动可能随时变更，需以实付款为准】
- 小米智能门锁 4 Pro 双摄版 2025 年 10 月开售，主打“AI 掌静脉识别技术、天地双摄大屏猫眼”，定价为 2899 元。
-…  `IT之家`
-- [35kg 承重 + 自带 LED 照明：小米米家智能晾衣机 1S 国补后 949 → 435 元](https://www.ithome.com/1/025/150.htm) — 【京东活动可能随时变更，需以实付款为准】
- 小米 · 米家智能晾衣机 1S 开售于 2023 年 4 月，官方上市价为 949 元。
- 京东 11.11 大促期间，按下方步骤下单…  `IT之家`
-- [100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！](https://www.qbitai.com/2026/11/508828.html) — 速度提了，API价格降了  `量子位`
-- [不到三月 1199 → 638 元：小米米家学习大路灯 2C 新低，11000lm 高光通量 + 双光源设计](https://www.ithome.com/1/024/822.htm) — 小米旗下米家立式学习灯 2C 今年 8 月末上市，该产品官方定价为 1199 元。
- 今日京东国补后直降至 751 元，PLUS 会员 733 元。
- 下单返 20 元 E 卡（…  `IT之家`
-- [鸿蒙装机量已突破9900万台：华为破亿只差最后一步](https://news.mydrivers.com/1/1164/1164721.htm) — 快科技11月11日消息，博主GeeK老王分享的数据显示， 鸿蒙装机量已突破9900万台，距离1亿目标仅剩不到100万台。按当前增速，未来一周内华为将正式跨过这一门槛。 对任何一个…  `快科技`
+- [AI短剧混战：大厂争夺的是剧本，还是下一代流量入口](https://www.tmtpost.com/8201130.html) — （本文作者为 万点研究，钛媒体经授权发布） 文 | 万点研究，作者 | 风翎， 编辑 | 默默 2026年，AI短剧成了中文互联网上最热的赛道之一。 从QuestMobile发布…  `钛媒体`
+- [11.11 倒数 20 分钟：会员年卡狂促汇总，bilibili 爱奇艺 QQ 音乐腾讯视频 WPS 剪映皆年内好价](https://www.ithome.com/1/025/805.htm) — 11.11 会员狂促倒数 2 小时，皆为年内好价。
+ 京东 无门槛红包至高 26888 元 ，每天抽 3 次：<a href="…  `IT之家`
+- [59 → 44.9 元：小米智能插座 4 京东秒杀，轻松控制电热毯、加湿器、取暖器](https://www.ithome.com/1/025/783.htm) — 小米智能插座 4 今日发售，支持 Wi-Fi6 远程控制，售价 59 元。
+ 今日京东直降至 44.9 元，仅限 3 小时：
+ <p data-vmark=…  `IT之家`
+- [涉及关键词“花呗”，蚂蚁集团、蚂蚁消金起诉易小满、百度网讯](https://www.ithome.com/1/025/781.htm) — IT之家 11 月 11 日消息，据人民法院公告网，北京市海淀区人民法院发布公告，该院受理原告蚂蚁科技集团股份有限公司（下称蚂蚁集团）、重庆蚂蚁消费金融有限公司（下称蚂蚁消金）与…  `IT之家`
+- [以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力](https://www.ithome.com/1/025/818.htm) — 【京东活动可能随时变更，需以实付款为准】
+ 小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 月，官方定价 3999 元。
+ 京东 11.11 大促期间，按下方步骤…  `IT之家`
+- [4599 → 3519 元：小米 REDMI K100 Pro Max 手机 16GB+256GB 国补直降](https://www.ithome.com/1/025/803.htm) — 【京东活动可能随时变更，需以实付款为准】
+ 小米 <span class="hot-topic" data-topic-logo="//pimg.ithome.com/produ…  `IT之家`
+- [4699 → 3794 元：小米 REDMI K100 Pro 手机 16GB+512GB 国补直降](https://www.ithome.com/1/025/800.htm) — 【京东活动可能随时变更，需以实付款为准】
+ 小米 <span class="hot-topic" data-topic-logo="//pimg.ithome.com/produ…  `IT之家`
+- [配 3D 曲面穹顶灯：小米米家智能晾衣机 2 Pro 国补后 1699 → 729 元探新低](https://www.ithome.com/1/025/772.htm) — 【京东活动可能随时变更，需以实付款为准】
+ 小米 · 米家智能晾衣机 2 Pro 开售于 2025 年 7 月，主打“94 个晾晒位、配 3D 曲面穹顶灯”，定价 1799 元，…  `IT之家`
 
 ## ▶ AI 应用开发竞赛
 
-- [Claude Fable 5.2 实测，DeepSeek、Kimi K3.1 迎战](https://www.woshipm.com/ai/6491795.html) — 同一段提示词，丢给 Claude Opus 5.5、Fable 5.2、Kimi K3.1 Pro 和 DeepSeek V4.1 Flash，各生成一段动效视频介绍新模型。从成…  `人人都是产品经理`
-- [规模化分享我 Vibe-Coding 的提示词](https://www.woshipm.com/ai/6491716.html) — 今年 Vibe-Coding 了大几十个产品后，结论很直接：分享产品没意义，不如分享 Prompt。于是一个客户端加一个小程序被搓了出来，把与 Agent 的聊天记录整理成可分享…  `人人都是产品经理`
-- [AI与机器人的迁徙——软硬结合时代的产品生态重构](https://www.woshipm.com/?p=6491597) — 当AI与机器人成为2026年最热的两大制高点，软硬融合的暗流下却悬着三把达摩克利斯之剑：底层逻辑的对立、组织路径的依赖、AI伦理与监管的滞后。本文从产品与组织视角，拆解软硬结合的…  `人人都是产品经理`
-- [闪购 Agent 情感设计探索](https://www.woshipm.com/share/6491651.html) — 淘宝闪购 AI Agent 的情感化探索揭示了一个关键问题：仅靠语气切换远远不够。从价值观、情感承接策略到语气风格，团队用三层设计重新定义 AI 如何理解情绪、回应需求。这套方法…  `人人都是产品经理`
-- [报名人数创下新高，第十一届「移动应用创新赛」圆满落幕](https://sspai.com/post/118824) — 北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与A…  `少数派`
-- [怎么给AI建立一套稳定的小红书爆款内容拆解标准？！](https://www.woshipm.com/share/6491804.html) — 让 AI 拆解小红书爆款，最怕它今天一套逻辑、明天一套维度，看着专业却没法复用。办法是先想清楚要拿到什么，再把认可的方法、参考样本和输出要求固定下来，让 AI 按标准分析，最后持…  `人人都是产品经理`
-- [用WorkBuddy从零复刻一条完整爆款视频](https://www.woshipm.com/ai/6491798.html) — 刷到一条带货视频想照着拍，真人出镜、镜头设计、日更节奏样样费时间。于是把两条原片交给 AI，让它自己拆结构、找素材、调配生成模型，折腾几轮真做出了成片。这篇记录了从找参考到出片的…  `人人都是产品经理`
-- [千问办公 2.0 发布：个人效率之外，还有组织效率这道题](https://www.woshipm.com/ai/6491851.html) — 个人效率提升，不等于组织效率提升——这是AI办公被忽视的真问题。千问办公2.0把Agent放进协作链路：群聊信息自动汇成项目上下文，通过人机共创让人与 AI 围绕工作成果持续协作…  `人人都是产品经理`
+- [Claude Fable 5.2证明了，AI可以靠代码吞噬一切。](https://www.woshipm.com/ai/6492118.html) — 同一段提示词，Fable 5.2跑出的庆生视频和灯塔小渔港，静态帧就能看出差别。它用4800行Python调Blender建完整个3D场景，审美成了新benchmark。 Cla…  `人人都是产品经理`
+- [Cloudflare 推出面向 AI 应用程序的 Web Search API](https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [AI时代创作模式：直接喷，不要总结](https://www.woshipm.com/share/6492250.html) — 上了周宏骐教授的 AI 营销课之后，创作者改掉了想清楚再写的习惯：打开 Typeless 直接开口说。这种用法被称作喷射式创作，念头和表达之间的膜变薄了，产出跟着涨，创作从憋稿变…  `人人都是产品经理`
+- [前 Twitch 产品负责人：AI 会给这八大领域带来 10 倍的机会](https://www.woshipm.com/chuangye/6492237.html) — Shaan Puri 把公司卖给 Twitch、又在 Twitch 做过产品负责人，他最近在节目里给了一个反向判断：用 AI 做内容和做软件只会越来越难赚钱，真正的机会在药、食物…  `人人都是产品经理`
 
 ## ◉ AI 3D / 游戏开发
 
 - [《蕾卡的移动工坊》里的芭芭雅嘎是谁？鸡脚小屋背后的女巫传说](https://www.3dmgame.com/news/202611/3958861.html)  `3DM 游戏网`
 - [游戏资讯 米哈游也打“价格战”？《崩坏:因缘精灵》公测定档2027年春季](https://www.youxituoluo.com/535033.html)  `游戏陀螺`
-- [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai) — Some Independent Games Festival (IGF) jurors published a statement yesterday saying they …  `The Verge AI`
 - [王老菊烧掉七百万做的游戏，到头来还是被喷烂了？](https://www.gamersky.com/news/202611/2240112.shtml)  `游民星空`
 - [中式教育下长大的中国人，养出了世界上最幸福的AI？](https://www.gamersky.com/news/202611/2240820.shtml)  `游民星空`
 - [吵了一周的《影之刃零》最强轮椅，给大伙都整乐了](https://www.gamersky.com/news/202611/2242565.shtml)  `游民星空`
 - [看完老外吹爆影之刃零，我这中国人都被吓哭了](https://www.gamersky.com/news/202611/2244067.shtml)  `游民星空`
-- [本周 Steam 值得关注的游戏 10.13 - 10.19（上）](https://www.indienova.com/indie-game-news/guide-2025-1013-1019-part-1)  `indienova`
+- [欢乐沙盒模拟游戏《加油添乱Gas N Cars》今日正式登陆Steam](https://www.gcores.com/articles/222200) — 曾在全球社交媒体上收获超过4 亿次观看的热门 VR 沙盒游戏《加油添乱Gas N Cars》，如今经过重新设计，以专为 PC 打造的全新版本登场。发行商 Kalank Games…  `机核 GCORES`
+- [本周 Steam 值得关注的游戏 11.09 - 11.15（一）](https://www.indienova.com/indie-game-news/guide-2026-1109-1115-part-1)  `indienova`
 
 ## ❖ AI 影游·互动影像
 
 - [红色文化创意设计专项](https://www.cdec.org.cn/articleDetail/2542)  `好创意数字艺术大赛`
 - [《蓝皮书》在第83届威尼斯国际电影节华语电影全球推广活动首发现场](https://art.pku.edu.cn/lbtp/1542d1932d5d420b802815d9bf52e2be.htm)  `北京大学艺术学院·动态`
 - [第2届数智音舞创新专项赛丨第20届好创意 03-25 2026](https://www.cdec.org.cn/articleDetail/2291)  `好创意数字艺术大赛`
-- [厦门晚报：助力AI影视创作 厦大电影学院推出两个平台](https://film.xmu.edu.cn/info/1160/20265.htm)  `厦门大学电影学院`
-- [2026年中国金鸡百花电影节系列活动·2026年中国电影教育与产业论坛暨厦门大学电影学院高质量发展大会顺利举办](https://film.xmu.edu.cn/info/1702/20275.htm)  `厦门大学电影学院`
-- [刘强东也做短剧了](https://www.woshipm.com/it/6491711.html) — 刘强东也来抢短剧生意了。 据AI星球报道，京东最近正在内测一款短剧产品，名字叫“京东追剧福利社”。 目前，这款产品已经在微信小程序上架，可以直接搜索体验。在京东APP里底部菜单【…  `人人都是产品经理`
-- [厦门日报：厦大推出新平台支持AI影视创作](https://film.xmu.edu.cn/info/1160/20255.htm)  `厦门大学电影学院`
-- [300元卖掉你的脸 下一秒成AI短剧主角](https://news.mydrivers.com/1/1164/1164710.htm) — 11月10日消息， 随着AI短剧快速扩张，数字人脸素材的采购需求持续走高，一门名为“人脸授权”的新兴生意随之兴起。无需真人出镜拍戏，也无需线下试镜，普通人只需提供几张个人照片并签…  `快科技`
+- [AI短剧混战：大厂争夺的是剧本，还是下一代流量入口](https://www.tmtpost.com/8201130.html) — （本文作者为 万点研究，钛媒体经授权发布） 文 | 万点研究，作者 | 风翎， 编辑 | 默默 2026年，AI短剧成了中文互联网上最热的赛道之一。 从QuestMobile发布…  `钛媒体`
+- [第29集属于哪一季？从追番目录到AI短剧，做一张不装懂的版本表](https://www.gcores.com/articles/222237) — 糖心漫剧团队（tangxinmanju.com）  `机核 GCORES`
+- [中国55%的Token烧在短剧，美国58%烧在代码：Token的流向，暴露了AI的两种“活法”](https://www.tmtpost.com/8198782.html) — （本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 关于中美AI算力消耗的差异，有一个被反复引用的说法：中国约55%的Token流向AI短剧与视频，美国约58%用于…  `钛媒体`
+- [300元卖掉的脸成AI短剧主角 人脸数据隐患重重](https://www.gamersky.com/news/202611/2244845.shtml)  `游民星空`
