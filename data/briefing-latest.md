@@ -1,81 +1,73 @@
-# 每日情报晨报 · 2026-11-15
+# 每日情报晨报 · 2026-11-16
 
-> 共 446 条更新，覆盖 12 类关注点。生成于 2026/11/15 07:03:07
+> 共 400 条更新，覆盖 12 类关注点。生成于 2026/11/16 07:03:38
 
 ## ⏰ 即将截止
 
-- **1 天后截止** · [DSH Hacks V2 ($100k+ in prizes!)](https://dsh-hacks-v2.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [UGREEN Hackathon 2026 on AI NAS](https://ugreenhackathon.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [STEMergent Hacks 2026](https://stemergent-hacks.devpost.com) — Devpost 即将开始
-- **2 天后截止** · [IceHacks](https://icehacks.devpost.com) — Devpost 即将开始
-- **3 天后截止** · [Green Shift Hacks](https://green-shift-hacks.devpost.com) — Devpost 黑客松
-- **4 天后截止** · [Meta VR Start Developer Competition 2026](https://start-developer-competition-26.devpost.com) — Devpost 黑客松
-- **6 天后截止** · [AccessED Hacks](https://accessed-hacks.devpost.com) — Devpost 黑客松
-- **6 天后截止** · [LaunchPad Hacks](https://launchpad-hacks.devpost.com) — Devpost 黑客松
-- **6 天后截止** · [Dakar Bitcoin Hack by BTrust](https://dakar-bitcoin-hack-2026.devpost.com) — Devpost 黑客松
-- **7 天后截止** · [University Blockchain Conference Hackathon 2026](https://ubc-hackathon-2026.devpost.com) — Devpost 即将开始
+- **1 天后截止** · [IceHacks](https://icehacks.devpost.com) — Devpost 即将开始
+- **2 天后截止** · [Green Shift Hacks](https://green-shift-hacks.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [Meta VR Start Developer Competition 2026](https://start-developer-competition-26.devpost.com) — Devpost 黑客松
+- **5 天后截止** · [AccessED Hacks](https://accessed-hacks.devpost.com) — Devpost 黑客松
+- **5 天后截止** · [LaunchPad Hacks](https://launchpad-hacks.devpost.com) — Devpost 黑客松
+- **5 天后截止** · [Dakar Bitcoin Hack by BTrust](https://dakar-bitcoin-hack-2026.devpost.com) — Devpost 黑客松
+- **6 天后截止** · [University Blockchain Conference Hackathon 2026](https://ubc-hackathon-2026.devpost.com) — Devpost 即将开始
+- **6 天后截止** · [STEM2Connect AI Hackathon](https://stem2connect-online-hackathon.devpost.com) — Devpost 黑客松
+- **7 天后截止** · [SafeSpace Hacks](https://safespace-hacks.devpost.com) — Devpost 黑客松
+- **10 天后截止** · [Hackathon Agéntico SoftwareChido 2026B](https://hackathon-agentico-2026b.devpost.com) — Devpost 黑客松
 
 ## ✦ AIGC 前沿
 
-- [游戏资讯 美团也入局AI游戏开发？开源模型的一句话，到哪一步了？](https://www.youxituoluo.com/535049.html)  `游戏陀螺`
-- [字节的2029与腾讯的“一半人”](https://www.tmtpost.com/8201267.html) — 衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另…  `钛媒体`
-- [早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时](https://www.ifanr.com/1689450?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论 余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工 DeepSeek 开放 App 工具接口，开发者可接入搜…  `爱范儿`
-- [MiniMax，狂卷字节、OpenAI](https://www.woshipm.com/ai/6493871.html) — 11月10日 MiniMax 开放 H3-Image 权重，10秒出1600万像素，价格打到同档位的5到7折；此前 OpenAI 的 GPT Image 2.6 和字节 Seed…  `人人都是产品经理`
-- [Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户](https://www.ithome.com/1/027/215.htm) — IT之家 11 月 14 日消息，当地时间 10 月 29 日， Cursor 发布公告 ，称 Cursor VS Code 扩展市场中出现了一个恶…  `IT之家`
-- [Anthropic刚教的24小时agent，我当天做出来了](https://www.woshipm.com/ai/6493965.html) — 10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 Fan…  `人人都是产品经理`
-- [新报告：四成游戏开发者用生成式AI 超半数认为有害](https://www.3dmgame.com/news/202611/3960104.html)  `3DM 游戏网`
-- [前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力](https://www.ithome.com/1/027/221.htm) — IT之家 11 月 14 日消息，曾任职于 OpenAI 和 Anthropic、因公开警告 AI 风险而受到广泛关注的研究员雅各布 · 考克森称，Anthropic 在 IPO…  `IT之家`
+- [OpenAI再次解散机器人团队：GPT-6太强，决定All in通用模型](https://www.woshipm.com/ai/6494057.html) — 英伟达一场仿真测试里，GPT-6 Astra 一天都没练过，只靠摄像头画面、机器人状态和一根控制线，就把机械臂任务成功率做到 74.8%，真机苦练的专用策略最高才 51%。同一周…  `人人都是产品经理`
+- [GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力](https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”](https://www.tmtpost.com/8205798.html) — （本文作者为 吴怼怼，钛媒体经授权发布） 文 ｜吴怼怼 在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。 大洋彼岸的硅谷，早已退居幕后的 Google 联合创始人 Sergey…  `钛媒体`
+- [全球芯片股较峰值回撤近四成，AI泡沫破了吗？](https://www.tmtpost.com/8205717.html) — 美东时间11月17日盘后， 英伟达 将公布2027财年第三季度财报。主持电话会的将不再是执掌公司33年的黄仁勋，而是临时首席执行官、首席财务官科莱特·克雷斯。11月12日，英伟达…  `钛媒体`
+- [算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？](https://www.tmtpost.com/8205381.html) — （本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 聊天对话框省不出利润率，物理AI真正的金矿藏在“同源耦合”的水下。 这两年，科技界与实体产业之间裂开…  `钛媒体`
+- [开发者借助 Claude 开发出体积仅 97KB 水下探索模拟项目 Abyssal Garden](https://www.ithome.com/1/027/406.htm) — IT之家 11 月 15 日消息，据 XDA 报道，一位开发者 Any-Reputation8118 利用 Anthropic Claude 编写代码，开发出一款名为“Abyss…  `IT之家`
+- [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model) — Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-…  `OpenAI News`
+- [Our new blog for science](https://openai.com/index/our-new-blog-for-science) — The OpenAI science blog shares new findings, practical methods, and firsthand accounts fr…  `OpenAI News`
 
 ## ⚙ AIGC 技巧与做法
 
-- [Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户](https://www.ithome.com/1/027/215.htm) — IT之家 11 月 14 日消息，当地时间 10 月 29 日， Cursor 发布公告 ，称 Cursor VS Code 扩展市场中出现了一个恶…  `IT之家`
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — <img src="https://opengraph.githubassets.com/c2406eb13e63c603110af36a43931caae3daf6e23338…  `GitHub Trending`
-- [GitHub Actions 锁文件功能正式可用，保障工作流依赖安全](https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) — <img src="https://opengraph.githubassets.com/1ba52d4574ac45cd815b31a52d8b0f4efa1f47b2910a…  `GitHub Trending`
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Secure, fast, effici…  `GitHub Trending`
-- [dream-num/univer](https://github.com/dream-num/univer) — Build your own AI off…  `GitHub Trending`
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — <img src="https://opengraph.githubassets.com/b88add9c0dc3be8c20648b8c6980fb8b525b482f2d7d…  `GitHub Trending`
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — <img src="https://opengraph.githubassets.com/f1a81725150b95b696700cdb8119070d68c5fe5dde1e…  `GitHub Trending`
+- [我用AI杀出300万爆款视频，我把视频制作的完整流程拆给你看！](https://www.woshipm.com/ai/6493996.html) — 一位创作者把用AI做出300万播放视频的完整流程拆成四步：拿Grok筛选题、拆解爆款结构、克隆自己的声音配音、用Codex先出分镜总览图再生成成片。他反复强调的仍是选题能力得靠人…  `人人都是产品经理`
+- [电影放映中途为什么不暂停给上厕所的时间？](https://daily.zhihu.com/story/9793987) — <h2 c…  `知乎日报`
+- [拆弹的时候为什么不一下把线全剪了?](https://daily.zhihu.com/story/9794016) — <h2 c…  `知乎日报`
+- [有哪些技术遗失后又被重复发明的例子?](https://daily.zhihu.com/story/9794006) — <h2 c…  `知乎日报`
+- [研究称穿袜子睡觉可缩短入睡时间 7.5 分钟，是真的吗？背后的原理是啥？](https://daily.zhihu.com/story/9793997) — <h2 c…  `知乎日报`
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — <img src="https://opengraph.githubassets.com/92a4c4f7fddc3bf81b61b1a405e911fdddb4af2033ee…  `GitHub Trending`
+- [ggml-org/ggml](https://github.com/ggml-org/ggml) — Te…  `GitHub Trending`
+- [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) — <img src="https://opengraph.githubassets.com/0e7bc9864d330ed5dc0662da4fda4603d23ff3dd4d78…  `GitHub Trending`
 
 ## ⚡ 全球 AI 黑客松
 
+- [QNX Global Hackathon](https://qnx.devpost.com) — 地点：Online · 赛期：Nov 02 - Dec 15, 2026 · 奖金：$ 50,000 · 报名：104 人 · 主题：IoT / Machine Learning…  `Devpost 黑客松`
 - [Relate by Neo4j Hackathon](https://relate.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 11, 2026 · 奖金：$ 0 · 报名：159 人 · 主题：Databases / Machine Learnin…  `Devpost 黑客松`
 - [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com) — 地点：Online · 赛期：Nov 02 - Dec 11, 2026 · 奖金：$ 64,000 · 报名：14 人 · 主题：Machine Learning/AI / P…  `Devpost 黑客松`
 - [Reddit’s Daily Games Hackathon](https://redditgameofday2026.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 08, 2026 · 奖金：$ 35,000 · 报名：243 人 · 主题：Beginner Friendly / Ga…  `Devpost 黑客松`
 - [AI OpenBuild](https://ai-openbuild.devpost.com) — 地点：Online · 赛期：Nov 05 - Dec 10, 2026 · 奖金：$ 150 · 报名：69 人 · 主题：Beginner Friendly / Machin…  `Devpost 黑客松`
 - [2026-2027 Fall ESE Senior Design](https://ese4500f26.devpost.com) — 地点：Amy Gutman Hall · 赛期：Sep 22 - Dec 07, 2026 · 奖金：$ 0 · 报名：102 人 · 主题：AR/VR / Fintech / …  `Devpost 黑客松`
 - [Deck the Pixels](https://deckthepixels.devpost.com) — 地点：Online · 赛期：Nov 10 - Dec 07, 2026 · 奖金：$ 25,000 · 报名：145 人 · 主题：Design / Machine Learn…  `Devpost 黑客松`
-- [SLAY HACKS](https://slayy-hacks.devpost.com) — 地点：Online · 赛期：Nov 07 - Dec 07, 2026 · 奖金：$ 4,500 · 报名：80 人 · 主题：Beginner Friendly / Open…  `Devpost 黑客松`
-- [Kiroween 2026](https://kiroween.devpost.com) — 地点：Online · 赛期：Oct 30 - Dec 04, 2026 · 奖金：$ 100,000 · 报名：689 人 · 主题：Beginner Friendly / M…  `Devpost 即将开始`
+- [AI for Medicine: A Global Student Hackathon on the Future of Care](https://ai-for-medicine.devpost.com) — 地点：Online · 赛期：Nov 04 - Dec 04, 2026 · 奖金：$ 0 · 报名：140 人 · 主题：Beginner Friendly / Health …  `Devpost 黑客松`
 
 ## ✂ 剪辑技巧
 
-- [Days With You｜空椅子](https://www.xinpianchang.com/a13873851?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
-- [肖战《异想天开》MV](https://www.xinpianchang.com/a13856083?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
-- [新手拍片指南：用这 5 种镜头，1 小时轻松搞定一部微纪录片](https://www.xinpianchang.com/a13862937?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
-- [泰国宠物广告 |「爱，从不需要颜值标准」Kaniva](https://www.xinpianchang.com/a13864401?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=10)  `新片场`
-- [高级黑色美学短片｜「CORE UNIFORM」哲学解构](https://www.xinpianchang.com/a13862225?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=11)  `新片场`
-- [On 新一代竞速跑鞋 | 为竞速时刻而生！](https://www.xinpianchang.com/a13770300?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=12)  `新片场`
-- [场长对谈|当拍片成本被 AI 打下来，什么才是导演的真正价值](https://www.xinpianchang.com/a13873494?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=1)  `新片场`
-- [三星W27 心系天下](https://www.xinpianchang.com/a13869886?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
-
-## ♿ 残障大学生成长
-
-- [游戏无障碍设计参考：序言](https://www.indienova.com/indie-game-development/game-accessibility-guidelines-prologue)  `indienova`
+- [我用AI杀出300万爆款视频，我把视频制作的完整流程拆给你看！](https://www.woshipm.com/ai/6493996.html) — 一位创作者把用AI做出300万播放视频的完整流程拆成四步：拿Grok筛选题、拆解爆款结构、克隆自己的声音配音、用Codex先出分镜总览图再生成成片。他反复强调的仍是选题能力得靠人…  `人人都是产品经理`
+- [视听享受！卡点超舒适「声韵与律动」](https://www.xinpianchang.com/a13863235?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=4)  `新片场`
+- [网友找茬 影视飓风TIM回赠100台iPhone Duo：谢谢你](https://news.mydrivers.com/1/1165/1165882.htm) — 快科技11月15日消息，别人送手机希望评论区多点好话 ，影视飓风TIM却反着来：今天不说好听话，说点难听的。他还真在评论区挑中一位网友，表示要送对方一台iPhone Duo。 这…  `快科技`
+- [Apple 苹果 2026 圣诞短片《追梦者》](https://www.xinpianchang.com/a13873491?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=1)  `新片场`
+- [异常世界录-010《神居》](https://www.xinpianchang.com/a13874244?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=2)  `新片场`
+- [Apple Pay 功夫喜剧广告「便利店乱斗」](https://www.xinpianchang.com/a13870052?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=3)  `新片场`
+- [挪威奥斯陆旅游宣传片 | 本地人疯狂吐槽自己城市！](https://www.xinpianchang.com/a13864333?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=5)  `新片场`
+- [Timberland 品牌短片​ |「为勇者而生」](https://www.xinpianchang.com/a13841911?part=%E7%BC%96%E8%BE%91%E7%B2%BE%E9%80%89&index=6)  `新片场`
 
 ## ◈ 实习机会
 
-- [直播实习生](https://www.shixiseng.com/intern/inn_gnsd25avzctd)  `实习僧·AI 实习`
-- [开发实习生](https://www.shixiseng.com/intern/inn_30ds0rpybhrk)  `实习僧·AI 实习`
-- [服装运营实习生](https://www.shixiseng.com/intern/inn_ta7p9nnno3tn)  `实习僧·运营实习`
-- [增长运营实习生](https://www.shixiseng.com/intern/inn_3pnyemvuznpf)  `实习僧·运营实习`
-- [社区运营实习生](https://www.shixiseng.com/intern/inn_ivvwi3nueufx)  `实习僧·运营实习`
-- [策划实习生（影视、多媒体方向）](https://www.shixiseng.com/intern/inn_eyreqsqv2suc)  `实习僧·影视实习`
+- [类目运营实习生](https://www.shixiseng.com/intern/inn_mjmyy5i8zwzm)  `实习僧·运营实习`
+- [开发工程师](https://www.shixiseng.com/intern/inn_1q5er7tqlju1)  `实习僧·AI 实习`
 
 ## ⛨ 考公·考编·央国企
 
-- [【企步新长征】永远做“清清延河水”的守护者 [11-12]](http://www.sasac.gov.cn/n2588025/n2588124/c36177011/content.html)  `国务院国资委`
-- [安徽省粮食产业集团聚力打造“一皖好粮”品牌 产品销售同比增长75% [11-12]](http://www.sasac.gov.cn/n2588025/n2588129/c36176110/content.html)  `国务院国资委`
+- [消息称黄仁勋离职后参与遴选接班人，已与至少一位英伟达新 CEO 候选人通话](https://www.ithome.com/1/027/418.htm) — IT之家 11 月 15 日消息，据华盛顿邮报报道，多年来，黄仁勋常开玩笑地说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已超三十年，几乎没有人能接替他。
+ “永远不会再…  `IT之家`
 
 ## 🎓 戏影考研·985
 
@@ -90,38 +82,37 @@
 
 ## ◆ 大厂活动·比赛
 
-- [游戏资讯 美团也入局AI游戏开发？开源模型的一句话，到哪一步了？](https://www.youxituoluo.com/535049.html)  `游戏陀螺`
-- [字节的2029与腾讯的“一半人”](https://www.tmtpost.com/8201267.html) — 衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另…  `钛媒体`
-- [早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时](https://www.ifanr.com/1689450?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论 余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工 DeepSeek 开放 App 工具接口，开发者可接入搜…  `爱范儿`
-- [B站装机百大：英伟达搞不好直接砍掉游戏业务！梭哈AI](https://news.mydrivers.com/1/1165/1165725.htm) — 近日，英伟达创始人黄仁勋因私人关系而身陷丑闻，昨晚更是直接宣布辞去英伟达CEO职务，引发行业动荡与多方关注。 昨日，B站装机区UP主@远古时代装机猿 在直播中也谈及了这个话题，当…  `快科技`
-- [雷军酝酿大招！被曝与AMG之父合作：小米欲打造性能前所未有、载入史册的新车](https://news.mydrivers.com/1/1165/1165840.htm) — 快科技11月14日消息，据意大利知名汽车媒体Quattroruote报道，小米正和知名汽车改装、赛事技术团队HWA推进秘密合作，联合开发一款超高性能汽车。 双方据称定下的开发目标…  `快科技`
-- [高速爆胎不失控！雷军揭秘小米澎程N70安全实力：按行业高安全标准设计](https://news.mydrivers.com/1/1165/1165835.htm) — 快科技11月14日消息， 小米创办人雷军发微博表示，小米澎程N70按照行业高安全标准设计，全系标配高速爆胎稳定控制功能，即使车辆以160km/h的速度高速行驶，两个轮胎同时爆胎，…  `快科技`
-- [华为要把阔屏做成全家桶！明年四种阔屏形态齐发](https://news.mydrivers.com/1/1165/1165832.htm) — 有爆料称华为计划在明年继续扩充"阔家族"的产品阵容，覆盖小阔折、大阔折、阔直板旗舰三个类别，同时还规划了一款形态尚未公开的阔屏新机，后续还会有更多阔形态上新。一句话概括，华为打算…  `快科技`
-- [华为最强大折叠！Mate X8蓄势待发：外观无悬念了](https://news.mydrivers.com/1/1165/1165826.htm) — 华为新一代大折叠旗舰Mate X8预计会在11月下旬正式和大家见面，随着发布会越来越近，这款新机的真机画面也终于在网上曝光了。 日前，一段余承东手持新机的视频在社交平台传开，不少…  `快科技`
+- [疑似抖音《GTA6》直播指南流出 多类游戏画面受限](https://www.3dmgame.com/news/202611/3960165.html)  `3DM 游戏网`
+- [2年跑40万公里！小米SU7车主晒电池健康度：还有91.08%](https://news.mydrivers.com/1/1165/1165896.htm) — 快科技11月15日消息， 一位小米SU7车主晒出用车记录：提车约2年，车辆已经跑到40万公里。 更引人关注的是，他查询到的动力电池健康度仍有91.08%，并表示目前实际续航还能跑…  `快科技`
+- [业界首发四卡三待！华为麒麟9050系列搭载新一代巴龙AI Modem](https://news.mydrivers.com/1/1165/1165888.htm) — 快科技11月15日消息， 华为官方今日继续揭秘首款“逻辑折叠”技术&tau;芯片——麒麟9050系列的更多配置信息，并最新公开新一代巴龙AI Modem的情报。 据介绍，新一代巴…  `快科技`
+- [开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级](https://www.ithome.com/1/027/450.htm) — IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。
+ 该模型围绕 Agent 开发、AI…  `IT之家`
+- [现在开店一定不要开一家传统的“店”，而是要用全新的打法把一家店做爆](https://www.woshipm.com/share/6494069.html) — 开一家传统的店、守着门等客上门，越来越难。老陈给的打法是 IP 加内容循环：短视频和直播负责获客与建立信任，线下负责体验和成交，私域承接复购与转介绍，让流量一圈圈放大。 现在开店…  `人人都是产品经理`
+- [快手公益启动“启智星计划”：利用 AI 创新教育、未来三年将覆盖 2000 所乡村学校](https://www.ithome.com/1/027/400.htm) — IT之家 11 月 15 日消息，快手公益宣布启动“启智星”AI 赋能教育共建计划，将在 10 个县域各建立由教育局、学校、基金会三方协作的共建单元，为 10 所案例校引入“一校…  `IT之家`
+- [传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生](http://www.geekpark.net/news/373993) — 曝小米与「AMG 之父」创办的 HWA 秘密合作，希望打造「载入史册」新车 当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA …  `极客公园`
+- [WorkBuddy发积分，腾讯新上线的「智囊团」发现金](https://www.woshipm.com/ai/6494059.html) — 腾讯上线「智囊团」专家平台，为混元模型招募各行业人才贡献知识，认证签约给 100 元，首单完成再奖 200 元。注册、补资料、签约、接任务、确认收入五步走完不到半小时，后台还会主…  `人人都是产品经理`
 
 ## ▶ AI 应用开发竞赛
 
-- [Anthropic刚教的24小时agent，我当天做出来了](https://www.woshipm.com/ai/6493965.html) — 10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 Fan…  `人人都是产品经理`
-- [开源/10秒出4K/超长文本/… 我实测出了MiniMax H3-Image擅长的四类新玩法](https://www.woshipm.com/ai/6493967.html) — MiniMax H3 Image 发布当天开源，10 秒出 4K，Mcode 与 API 都能直接调。作者烧掉 5 万积分，按分镜与解构爆炸图、3A 游戏与动漫资产、超长文本排版…  `人人都是产品经理`
-- [Qwen4-Max Preview实测：4800万条数据26分钟跑完，强！](https://www.woshipm.com/ai/6493838.html) — 把12G的 HackerNews 数据集直接丢给 Qwen4-Max-Preview，26分钟、用 DuckDB 跑完4800万条数据，产出一个可交互的编程语言热度网页，结论是 …  `人人都是产品经理`
-- [AI 新手从 0 到 1 搭建一款微信小程序实战经验分享](https://www.woshipm.com/ai/6421497.html) — 从产品定位到功能落地，本文手把手教你用 AI 编程助手从零搭建一款备婚主题微信小程序。涵盖笔记社区、预算工具、电商导流三大模块，详细拆解分阶段实施路线与关键 Prompt 示例，…  `人人都是产品经理`
-- [热点收藏了却不会做？我用Flova做出4次风扇变装](https://www.woshipm.com/ai/6493858.html) — 同一位女生躺在地毯上，从白T恤换成红金礼服、银蓝骑士甲，再到巫师袍和宇航服。作者用 Flova 复刻这条风扇变装热点，难点不在效果，而在扇叶遮挡的时机和怎么保证几套衣服还是同一个…  `人人都是产品经理`
+- [我用AI杀出300万爆款视频，我把视频制作的完整流程拆给你看！](https://www.woshipm.com/ai/6493996.html) — 一位创作者把用AI做出300万播放视频的完整流程拆成四步：拿Grok筛选题、拆解爆款结构、克隆自己的声音配音、用Codex先出分镜总览图再生成成片。他反复强调的仍是选题能力得靠人…  `人人都是产品经理`
+- [OpenAI再次解散机器人团队：GPT-6太强，决定All in通用模型](https://www.woshipm.com/ai/6494057.html) — 英伟达一场仿真测试里，GPT-6 Astra 一天都没练过，只靠摄像头画面、机器人状态和一根控制线，就把机械臂任务成功率做到 74.8%，真机苦练的专用策略最高才 51%。同一周…  `人人都是产品经理`
+- [GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力](https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [红杉投资，北大“浪漫极客”的AI相机，如何月入129万美元？](https://www.woshipm.com/share/6494071.html) — WayShot 上线一年多，连续多日稳在美国摄影与录像免费榜第 9，近 30 天预估下载 80.93 万次、内购收入 25.09 万美元，环比双双翻倍。团队在北京，累计融资超 2…  `人人都是产品经理`
+- [WorkBuddy执行任务重复循环浪费token，教你一招止损](https://www.woshipm.com/ai/6494067.html) — WorkBuddy 有时兜圈子、卡在思考里空转，根源是失败重复和成功重复两种 loop，Harness 只在轮次上限才喊停。作者写了一个 12KB 的外聘教练脚本，专门算 tok…  `人人都是产品经理`
 
 ## ◉ AI 3D / 游戏开发
 
-- [游戏资讯 美团也入局AI游戏开发？开源模型的一句话，到哪一步了？](https://www.youxituoluo.com/535049.html)  `游戏陀螺`
+- [Unity2D 游戏开发基础（7-9）](https://www.indienova.com/indie-game-development/unity2d-game-dev-basic-7-9)  `indienova`
 - [《蕾卡的移动工坊》里的芭芭雅嘎是谁？鸡脚小屋背后的女巫传说](https://www.3dmgame.com/news/202611/3958861.html)  `3DM 游戏网`
 - [游戏资讯 米哈游也打“价格战”？《崩坏:因缘精灵》公测定档2027年春季](https://www.youxituoluo.com/535033.html)  `游戏陀螺`
-- [新报告：四成游戏开发者用生成式AI 超半数认为有害](https://www.3dmgame.com/news/202611/3960104.html)  `3DM 游戏网`
-- [本周 Steam 值得关注的游戏 11.09 - 11.15（四）](https://www.indienova.com/indie-game-news/guide-2026-1109-1115-part-4)  `indienova`
-- [诺娃独立游戏通讯 2022-#48](https://www.indienova.com/indie-game-news/nova-post-2022-48)  `indienova`
-- [诺娃独立游戏通讯 2024-#33](https://www.indienova.com/indie-game-news/nova-post-2024-33)  `indienova`
-- [诺娃独立游戏通讯 2022-#14](https://www.indienova.com/indie-game-news/nova-post-2022-14)  `indienova`
+- [资讯 本周 Steam 值得关注的游戏 11.09 - 11.15（五）](https://www.indienova.com/indie-game-news/guide-2026-1109-1115-part-5)  `indienova`
+- [资讯 本周 Steam 值得关注的游戏 07.13 - 07.19（四）](https://www.indienova.com/indie-game-news/guide-2026-0713-0719-part-4)  `indienova`
+- [本周 Steam 值得关注的游戏 07.29 - 08.04（二）](https://www.indienova.com/indie-game-news/guide-2024-0729-0804-part-2)  `indienova`
+- [本周 Steam 值得关注的游戏 06.19 - 06.25（下）](https://www.indienova.com/indie-game-news/guide-2023-0619-0625-part-3)  `indienova`
+- [社交 VR 平台 Somnium Space 宣布即将重返 Steam，预计相应版本将全面清除加密货币内容](https://www.ithome.com/1/027/405.htm) — IT之家 11 月 15 日消息，据外媒 RoadtoVR 报道，社交 VR 平台 Somnium Space 在 2021 年因涉及虚拟货币交易被 V 社从 Steam 平台下…  `IT之家`
 
 ## ❖ AI 影游·互动影像
 
 - [红色文化创意设计专项](https://www.cdec.org.cn/articleDetail/2542)  `好创意数字艺术大赛`
 - [《蓝皮书》在第83届威尼斯国际电影节华语电影全球推广活动首发现场](https://art.pku.edu.cn/lbtp/1542d1932d5d420b802815d9bf52e2be.htm)  `北京大学艺术学院·动态`
 - [第2届数智音舞创新专项赛丨第20届好创意 03-25 2026](https://www.cdec.org.cn/articleDetail/2291)  `好创意数字艺术大赛`
-- [充了 1300 测即梦短剧工作室，结果。。。](https://www.woshipm.com/ai/6493844.html) — 自9月下旬盯上TikTok短剧的流量窗口，作者靠一条AI工作流跑出10万+播放、单条带货1.3万美金。这次他充了1300元测即梦短剧工作室，用一款磷虾油从头趟一遍剧本到成片，答案…  `人人都是产品经理`
-- [现象级AI短剧《持械入宋》爆红 第11季官宣登热搜 ​](https://www.gamersky.com/news/202611/2246502.shtml)  `游民星空`
