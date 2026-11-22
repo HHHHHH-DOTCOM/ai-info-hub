@@ -1,76 +1,52 @@
-# 每日情报晨报 · 2026-11-21
+# 每日情报晨报 · 2026-11-22
 
-> 共 559 条更新，覆盖 12 类关注点。生成于 2026/11/21 07:14:20
+> 共 405 条更新，覆盖 12 类关注点。生成于 2026/11/22 10:30:07
 
 ## ⏰ 即将截止
 
-- **1 天后截止** · [STEM2Connect AI Hackathon](https://stem2connect-online-hackathon.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [Teens Hack Houston Hackathon](https://tripleh.devpost.com) — Devpost 黑客松
-- **2 天后截止** · [SafeSpace Hacks](https://safespace-hacks.devpost.com) — Devpost 黑客松
-- **4 天后截止** · [OBSCURA: Satellite AI Research Challenge](https://obscura.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [Hackathon Agéntico SoftwareChido 2026B](https://hackathon-agentico-2026b.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [HackWithAditya](https://hackwithaditya.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [HackTheFashion Global'26](https://hackthefashion-global26.devpost.com) — Devpost 黑客松
-- **5 天后截止** · [BuildyourOwnWebsite](https://buildyourownwebsite.devpost.com) — Devpost 黑客松
-- **7 天后截止** · [Build Your First AI App](https://build-your-first-ai-app.devpost.com) — Devpost 黑客松
-- **10 天后截止** · [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com) — Devpost 黑客松
+- **1 天后截止** · [SafeSpace Hacks](https://safespace-hacks.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [OBSCURA: Satellite AI Research Challenge](https://obscura.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [Hackathon Agéntico SoftwareChido 2026B](https://hackathon-agentico-2026b.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [HackWithAditya](https://hackwithaditya.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [HackTheFashion Global'26](https://hackthefashion-global26.devpost.com) — Devpost 黑客松
+- **4 天后截止** · [BuildyourOwnWebsite](https://buildyourownwebsite.devpost.com) — Devpost 黑客松
+- **6 天后截止** · [Build Your First AI App](https://build-your-first-ai-app.devpost.com) — Devpost 黑客松
+- **7 天后截止** · [Global AI Builder’s Challenge](https://global-ai-builders-challenge.devpost.com) — Devpost 即将开始
+- **9 天后截止** · [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com) — Devpost 黑客松
+- **9 天后截止** · [#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com) — Devpost 即将开始
 
 ## ✦ AIGC 前沿
 
 - [AI Agents for Founders Challenge — HETIC 2026](https://ai-agents-founders-hetic-26.devpost.com) — 地点：Online · 赛期：Nov 04 - Dec 18, 2026 · 奖金：€ 997 · 报名：145 人 · 主题：Low/No Code / Machine Lea…  `Devpost 即将开始`
-- [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html) — 国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。  `量子位`
-- [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html) — 一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  `量子位`
-- [华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一](https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
-- [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 曝苹果开发 AI 智能体，可写代码、上网、控制应用 Anthropic 上市首日收涨 17%，收盘价 97.17 美元 曝 OpenAI 进军手机领域，富智康获整机组装订单 旅行…  `爱范儿`
-- [奇袭GPT-6.2！谷歌迄今最强Gemini登场，7周内第四发，RSI时代真来了](https://www.woshipm.com/ai/6497367.html) — Google 一周内第四次发模型，Gemini 4 Neon 在 Artificial Analysis 拿 61 分排第三，落在 Claude Fable 5.2 和 GPT-…  `人人都是产品经理`
-- [OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑](https://www.ithome.com/1/030/288.htm) — IT之家 11 月 21 日消息，OpenAI 今日宣布向 ChatGPT Plus 订阅用户开放 Spaces 协作空间功能。
- 该功能此前仅面向 Pro、Business 和…  `IT之家`
-- [ChatGPT商家后台上线，要抢谁的饭碗？](https://www.woshipm.com/ai/6497514.html) — 11 月 10 日 OpenAI 上线 Businesses in ChatGPT 测试版，商家可免费认领档案、看数据、建 AI 分身。去年站内下单五个月就撤，这次它不抢成交，只…  `人人都是产品经理`
+- [【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地](https://www.tmtpost.com/8213535.html) — 图片来自AI生成 观点 百度 首席执行官：云基础设施投资的回报周期正在缩短 百度首席执行官称，云基础设施投资的回报周期正在缩短，使AI云基础设施成为更健康、更可持续的业务。在GP…  `钛媒体`
+- [姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图](https://www.qbitai.com/2026/11/511757.html) — 还透露了不少训练背后的秘诀  `量子位`
+- [GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍](https://www.qbitai.com/2026/11/511779.html) — 还实现可变形物体操控全球首通  `量子位`
+- [Pi Agent 绝配版 Qwen3.8-27B，关掉思考，更稳更快！](https://www.woshipm.com/ai/6497995.html) — 给 Pi Agent 外挂 319 MB 的 LoRA，不改 27B 基座，关掉思考反而更强：SWE-bench Pro 最难 51 题通过率从 39.2% 提到 64.7%，T…  `人人都是产品经理`
+- [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io) — Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=505…  `Hacker News`
+- [Edge AI Daily 早报（11月22日）](https://www.tmtpost.com/8213684.html) — 硅谷前沿： 一、英伟达的两个故事与黄仁勋难题 1.人事交接：2026年11月12日英伟达董事会宣布，黄仁勋辞去总裁、CEO及董事职务并即时生效；执行副总裁兼CFO科莱特·克雷斯（…  `钛媒体`
+- [吃中国AI的饭还要砸锅 马斯克旗下编程工具Cursor宣布淘汰中国大模型](https://news.mydrivers.com/1/1167/1167577.htm) — 快科技11月21日消息，美国的前沿级闭源AI费用让很多公司承受不了，开源的中国AI成为美国公司的福星，然而吃了这碗饭的Cursor又要砸中国AI的锅，宣布淘汰中国大模型。 美国媒…  `快科技`
 
 ## ⚙ AIGC 技巧与做法
 
-- [微信内测小工具开发，两个有意思的交互](https://www.woshipm.com/ai/6497404.html) — 微信内测「做个小工具」，不用备案和云服务，代码全在云端生成，写完就直接部署，本机不留文件。两个交互值得看：小微常驻页面下方，会话工作台把后台和数据都留在工具里。 现在开发“小程序…  `人人都是产品经理`
-- [给 Gemini 道歉，请自觉排队](https://www.ifanr.com/1690572?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 今天，知名半导体和 AI 研究机构 SemiAnalysis 在 X 上发了一张写给 Google DeepMind 主席 Demis Hassabis 的《向 Google 道…  `爱范儿`
-- [哈佛大学研究人员：AI 编程目前的瓶颈是“Code Review”](https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted) — 哈佛大学两位博士候选人做了一份工作论文，把 AI 编程 Agent 的真实效果算了一遍。样本是 718 家公司、725938 名员工。 结论不太好看。 用上 AI 编程 Agen…  `开源中国`
-- [WorkBuddy积分掉太快？3个设置+6条原则，改完积分随便造！](https://www.woshipm.com/ai/6497400.html) — 三个月 22680.8 积分，光一个失控对话就烧掉 9077.9 分，占四成；最贵和最便宜的档，每积分换到的 token 差 635 倍。改 3 个设置、记 6 条原则，堵住隐性…  `人人都是产品经理`
-- [WorkBuddy上线「辅助任务模型」，一个任务拆成两个模型去执行，帮你省积分](https://www.woshipm.com/ai/6497259.html) — WorkBuddy 把一次任务拆成主任务和辅助任务：改标题、压缩上下文这类杂活，交给默认的 wb-lite 或免费的 Hy4 flash 去跑，不必再按 Kimi-K3 的 1.…  `人人都是产品经理`
-- [麦肯锡年度报告：32%的企业不买软件了？](https://www.woshipm.com/chuangye/6497541.html) — 麦肯锡最新调研显示，32% 的受访企业已经因为能用 AI 编程自己实现功能，放弃采购至少一款软件；另一边，一家 8.3 万人的房产经纪公司用 Lovable 自建系统，省下约 1…  `人人都是产品经理`
-- [世界各国都有哪些奇葩的法律法规？](https://daily.zhihu.com/story/9794139) — <h2 c…  `知乎日报`
-- [有机化学中，反应容器的形状是否会影响反应产物的种类？](https://daily.zhihu.com/story/9794159) — <h2 c…  `知乎日报`
+- [Pi Agent 绝配版 Qwen3.8-27B，关掉思考，更稳更快！](https://www.woshipm.com/ai/6497995.html) — 给 Pi Agent 外挂 319 MB 的 LoRA，不改 27B 基座，关掉思考反而更强：SWE-bench Pro 最难 51 题通过率从 39.2% 提到 64.7%，T…  `人人都是产品经理`
+- [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io) — Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=505…  `Hacker News`
+- [吃中国AI的饭还要砸锅 马斯克旗下编程工具Cursor宣布淘汰中国大模型](https://news.mydrivers.com/1/1167/1167577.htm) — 快科技11月21日消息，美国的前沿级闭源AI费用让很多公司承受不了，开源的中国AI成为美国公司的福星，然而吃了这碗饭的Cursor又要砸中国AI的锅，宣布淘汰中国大模型。 美国媒…  `快科技`
+- [3步上手字节 Seedance Agent，普通人也能搞定 AI 视频！【附教程】](https://www.woshipm.com/ai/6497847.html) — 用字节火山引擎的 Seedance Managed Agent 把圆明园海晏堂做了一次数字化复原，跑出三十多张跨季效果图和近二十段视频。查考古报告定事实、白模给空间参考、同一轮对…  `人人都是产品经理`
+- [[ 译 ] 浮岛物语（FORAGER）: 在 GameMaker 中做优化](https://www.indienova.com/indie-game-development/optimization-forager-in-gamemaker)  `indienova`
+- [教你用WorkBuddy自动操控苹果和安卓手机](https://www.woshipm.com/ai/6497699.html) — 电脑装上 Pinky、手机打开开发者模式，Agent 就能通过 MCP 拿到手机画面，自己点按滑动。这篇把配置走了一遍：绕开打不开的 github 装 Skill、接上 Work…  `人人都是产品经理`
+- [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318) — 11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题…  `少数派`
+- [《猫和老鼠》为何能风靡全球？](https://daily.zhihu.com/story/9794172) — <h2 c…  `知乎日报`
 
 ## ⚡ 全球 AI 黑客松
 
 - [QNX Global Hackathon](https://qnx.devpost.com) — 地点：Online · 赛期：Nov 02 - Dec 15, 2026 · 奖金：$ 50,000 · 报名：104 人 · 主题：IoT / Machine Learning…  `Devpost 黑客松`
+- [Arbiter Hacks V1](https://arbiter-hacks-v1.devpost.com) — 地点：Online · 赛期：Oct 20 - Dec 21, 2026 · 奖金：$ 7,800 · 报名：425 人 · 主题：Beginner Friendly / Mac…  `Devpost 黑客松`
 - [Relate by Neo4j Hackathon](https://relate.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 11, 2026 · 奖金：$ 0 · 报名：159 人 · 主题：Databases / Machine Learnin…  `Devpost 黑客松`
 - [Silicon Valley Buildathon](https://silicon-valley-buildathon.devpost.com) — 地点：Online · 赛期：Nov 08 - Dec 15, 2026 · 奖金：$ 500 · 报名：150 人 · 主题：Open Ended / Beginner Fri…  `Devpost 黑客松`
 - [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com) — 地点：Online · 赛期：Nov 02 - Dec 11, 2026 · 奖金：$ 64,000 · 报名：14 人 · 主题：Machine Learning/AI / P…  `Devpost 黑客松`
 - [Reddit’s Daily Games Hackathon](https://redditgameofday2026.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 08, 2026 · 奖金：$ 35,000 · 报名：243 人 · 主题：Beginner Friendly / Ga…  `Devpost 黑客松`
 - [AI OpenBuild](https://ai-openbuild.devpost.com) — 地点：Online · 赛期：Nov 05 - Dec 10, 2026 · 奖金：$ 150 · 报名：69 人 · 主题：Beginner Friendly / Machin…  `Devpost 黑客松`
 - [2026-2027 Fall ESE Senior Design](https://ese4500f26.devpost.com) — 地点：Amy Gutman Hall · 赛期：Sep 22 - Dec 07, 2026 · 奖金：$ 0 · 报名：102 人 · 主题：AR/VR / Fintech / …  `Devpost 黑客松`
-- [Deck the Pixels](https://deckthepixels.devpost.com) — 地点：Online · 赛期：Nov 10 - Dec 07, 2026 · 奖金：$ 25,000 · 报名：145 人 · 主题：Design / Machine Learn…  `Devpost 黑客松`
-
-## ♿ 残障大学生成长
-
-- [河北省残联开展职工岗位练兵和技能竞赛活动](https://www.cdpf.org.cn/xwzx/dfdt1/e20f1c65576f4977990d0b6ac38539ce.htm)  `中国残联·地方动态`
-- [广西残联组织集中开展专题党课学习](https://www.cdpf.org.cn/xwzx/dfdt1/393efae945ef421aad910f6d0119eaf4.htm)  `中国残联·地方动态`
-- [广西钦州市委副书记李晓勇、副市长李珊玫一行到广西残联座谈交流](https://www.cdpf.org.cn/xwzx/dfdt1/38ca50bfa4d74e18a22723da6903b62f.htm)  `中国残联·地方动态`
-
-## ◈ 实习机会
-
-- [项目运营实习生](https://www.shixiseng.com/intern/inn_uu24efzmitnr)  `实习僧·运营实习`
-- [台网运营实习生](https://www.shixiseng.com/intern/inn_fjxwbfozajuc)  `实习僧·运营实习`
-- [课堂运营实习生](https://www.shixiseng.com/intern/inn_yh7g7oobypy0)  `实习僧·运营实习`
-- [游戏战斗策划](https://www.shixiseng.com/intern/inn_djy31cn3ghig)  `实习僧·游戏实习`
-- [商家运营()](https://www.shixiseng.com/intern/inn_2r2e5trxbenv)  `实习僧·运营实习`
-
-## ⛨ 考公·考编·央国企
-
-- [【迎峰度冬 能源保供】中国华电全力做好迎峰度冬能源保供工作 [11-20]](http://www.sasac.gov.cn/n2588025/n2588124/c36220353/content.html)  `国务院国资委`
-- [全国最长过海综合管廊隧道全线贯通 [11-20]](http://www.sasac.gov.cn/n2588025/n2588124/c36219267/content.html)  `国务院国资委`
-- [G331国道丹东小荒沟江口特大桥主拱肋成功合龙 [11-20]](http://www.sasac.gov.cn/n2588025/n2588124/c36220439/content.html)  `国务院国资委`
-- [护航供暖季 山东能源集团全力打好迎峰度冬保供攻坚战 [11-20]](http://www.sasac.gov.cn/n2588025/n2588129/c36218802/content.html)  `国务院国资委`
-- [长二丁火箭成功发射实践二十四号卫星 [11-20]](http://www.sasac.gov.cn/n2588025/n2588124/c36219105/content.html)  `国务院国资委`
-- [“蜀道班列”累计开行超8900列 [11-20]](http://www.sasac.gov.cn/n2588025/n2588129/c36218781/content.html)  `国务院国资委`
 
 ## 🎓 戏影考研·985
 
@@ -85,39 +61,39 @@
 
 ## ◆ 大厂活动·比赛
 
-- [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html) — 国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。  `量子位`
-- [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html) — 一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  `量子位`
-- [华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一](https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
-- [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 曝苹果开发 AI 智能体，可写代码、上网、控制应用 Anthropic 上市首日收涨 17%，收盘价 97.17 美元 曝 OpenAI 进军手机领域，富智康获整机组装订单 旅行…  `爱范儿`
-- [阿里巴巴警告未来两年算力紧缺](https://www.solidot.org/story?sid=85947) — 阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2…  `Solidot`
-- [短剧冲击下 游戏行业也不好干了！网易CEO丁磊等行业大佬不能更认同](https://news.mydrivers.com/1/1167/1167437.htm) — 快科技11月20日消息，当下全民刷短剧的风潮愈演愈烈，挤占了大量普通用户的休闲娱乐时间，传统游戏行业的玩家流失情况已经越来越明显，不少上市游戏公司的最新财报数据，已经直接印证了行…  `快科技`
-- [小米 MiMo：Token Plan 的 Pro / Max 套餐限时支持 UltraSpeed 超高速推理模型](https://www.ithome.com/1/030/193.htm) — IT之家 11 月 20 日消息，小米 MiMo 官方文档显示，11 月 19 日起， Token Plan 限时支持 UltraSpeed 超高速旗舰推理模型 。
- <p…  `IT之家`
-- [2.76亿元大单落地！浦发银行昇腾超节点采购中标结果出炉](https://news.mydrivers.com/1/1167/1167369.htm) — 快科技11月20日消息， 浦发银行2026年人工智能算力扩容昇腾超节点采购项目公布中标结果，该项目含税中标金额约2.76亿元，是金融行业国产算力落地的又一笔重要订单。 昇腾超节点…  `快科技`
+- [姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图](https://www.qbitai.com/2026/11/511757.html) — 还透露了不少训练背后的秘诀  `量子位`
+- [林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机](http://www.geekpark.net/news/374299) — 传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资…  `极客公园`
+- [IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...](https://www.ithome.com/1/030/518.htm) — “IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有：
+ 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态
+ 博主 @数…  `IT之家`
+- [沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配](https://www.36kr.com/newsflashes/4079148232168323) — 据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。（财联社）  `36氪·快讯`
+- [网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配](https://www.ithome.com/1/030/541.htm) — IT之家 11 月 22 日消息，据多位用户反馈，网易 UU 远程鸿蒙版 App 已开启邀请测试（手机 / 平板原生适配），获得资格的用户可在收到短信后点击对应链接跳转至华为应用…  `IT之家`
+- [具身智创·生态共融，2026人形机器人开发者大会将于11月25日举办](https://www.oschina.net/news/503716) — 为贯彻落实国务院关于推动人形机器人产业发展的决策部署，汇聚全球开发者协同创新，由北京经济技术开发区管理委员会指导的2026人形机器人开发者大会拟于2026年11月25日在北京亦庄…  `开源中国`
+- [资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段](http://www.geekpark.net/news/374302) — 头图来源：腾讯 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-…  `极客公园`
+- [华为星芒O1 Pro为何选择麒麟9030S芯片 星芒总经理给出三大原因](https://news.mydrivers.com/1/1167/1167600.htm) — 快科技11月22日消息，日前， 华为全新子品牌OSTA星芒首款手机——OSTA O1 Pro正式发布，售价5699元起，首发价5499元起。 新机发布后不久，星芒品牌总经理刘赫公…  `快科技`
 
 ## ▶ AI 应用开发竞赛
 
-- [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html) — 国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。  `量子位`
-- [华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一](https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
-- [2.76亿元大单落地！浦发银行昇腾超节点采购中标结果出炉](https://news.mydrivers.com/1/1167/1167369.htm) — 快科技11月20日消息， 浦发银行2026年人工智能算力扩容昇腾超节点采购项目公布中标结果，该项目含税中标金额约2.76亿元，是金融行业国产算力落地的又一笔重要订单。 昇腾超节点…  `快科技`
-- [AI与硬件结合的碰撞——1个框架破局组织变革的困境](https://www.woshipm.com/ai/6497413.html) — 当AI放大个人能力，组织权责结构却成为软硬结合的最大瓶颈。本文犀利指出招聘大牛并非解药，并提出“大统筹+小硬件”的最小组织单元，通过权责解耦、渐进扩展与决策透明化三大机制，破解软…  `人人都是产品经理`
-- [文脉焕新 青春作答｜第三届中国研究生“文化中国”两创大赛全国总决赛圆满落幕](https://cpipc.acge.org.cn/pw/news/detail/2c908015a1ebae7701a1f256cfb5070f?page=0)  `中国研究生创新实践系列大赛`
+- [《悦嫂坊》，我专门为月嫂阿姨们开发了一款小程序](https://www.woshipm.com/ai/6495024.html) — 一位产品经理为月嫂阿姨量身打造了微信小程序《悦嫂坊》，从月嫂群、名片制作到待产包、月子餐，每个功能都直击私单月嫂的真实痛点。本文详细拆解其产品设计与交互细节，看AI Coding…  `人人都是产品经理`
+- [前英伟达 AI 应用软件产品管理总监回忆黄仁勋：作风强硬，骨子里却很温暖](https://www.ithome.com/1/030/459.htm) — IT之家 11 月 21 日消息，据《商业内幕》，现年 43 岁、曾与黄仁勋共事三年半的前英伟达 AI 应用软件产品管理总监贾马尔，讲述了自己近距离观察黄仁勋及与其共事的经历。
+…  `IT之家`
+- [左手AI创业、右手清华课业，WorkBuddy新功能帮了大忙](https://www.woshipm.com/ai/6497696.html) — 任务堆到几十条、资料散在几个文件夹、换台电脑又得从头讲一遍，这三个麻烦在 WorkBuddy 5.11.3 里被「分组」和跨设备迁移接住了。四组工作按项目重排，一个分组能挂多个本…  `人人都是产品经理`
+- [WorkBuddy「电脑操控」上线，用完彻底回不去了](https://www.woshipm.com/ai/6497842.html) — WorkBuddy 上线电脑操控，补齐浏览器操控、远程遥控之后的第三块拼图。开辅助功能和屏幕录制两道权限，它就能跨应用点按、输入、读屏，实测开元宝问问题、刷朋友圈、代发微信消息都…  `人人都是产品经理`
 
 ## ◉ AI 3D / 游戏开发
 
 - [NVIDIA显卡限制惨遭破解：8GB显存秒变80GB](https://www.3dmgame.com/news/202611/3959967.html)  `3DM 游戏网`
-- [【会员抽奖】冒险者横行，怪物奋起反击！《满盘怪招》Steam 试玩版现已上线](https://www.gcores.com/articles/222580) — 独立游戏发行商 Gamirror Games 宣布，将发行由韩国独立开发者 ArmedPeseant 开发的 Roguelike 游戏《满盘怪招》（MonsTile）。本作融合卡…  `机核 GCORES`
-- [《蕾卡的移动工坊》里的芭芭雅嘎是谁？鸡脚小屋背后的女巫传说](https://www.3dmgame.com/news/202611/3958861.html)  `3DM 游戏网`
-- [资讯 NOVA海外独立游戏见闻 Vol.161](https://www.indienova.com/indie-game-news/news-of-overseas-indie-games-and-industry-vol-161)  `indienova`
-- [诺娃独立游戏通讯 2026-#46](https://www.indienova.com/indie-game-news/nova-post-2026-46)  `indienova`
-- [本周 Steam 值得关注的游戏 9.14-9.20（上）](https://www.indienova.com/indie-game-news/guide20-0914-0920-p1)  `indienova`
-- [本周 Steam 值得关注的游戏 03.03 - 03.09（一）](https://www.indienova.com/indie-game-news/guide-2025-0303-0309-part-1)  `indienova`
-- [本周 Steam 值得关注的游戏 04.08 - 04.14（上）](https://www.indienova.com/indie-game-news/guide-2024-0408-0414-part-1)  `indienova`
+- [《哈利波特》剧集首曝片段 但粉丝评价两极分化](https://www.3dmgame.com/news/202611/3960184.html)  `3DM 游戏网`
+- [HackSussex GameJam 2026](https://hacksussex-gamejam-2026.devpost.com) — 地点：Brighton · 赛期：Dec 05 - 06, 2026 · 奖金：£ 0 · 报名：126 人 · 主题：Gaming · 主办：HackSussex  `Devpost 即将开始`
+- [本周 Steam 值得关注的游戏 11.16 - 11.22（三）](https://www.indienova.com/indie-game-news/guide-2026-1116-1122-part-3)  `indienova`
+- [本周 Steam 值得关注的游戏 10.21 - 10.27（一）](https://www.indienova.com/indie-game-news/guide-2024-1021-1027-part-1)  `indienova`
+- [诺娃独立游戏通讯 2022-#50](https://www.indienova.com/indie-game-news/nova-post-2022-50)  `indienova`
+- [本周 Steam 值得关注的游戏 10.4 - 10.10（二）](https://www.indienova.com/indie-game-news/guide21-1004-1010-part2)  `indienova`
+- [本周 Steam 值得关注的游戏 06.13 - 06.19（下）](https://www.indienova.com/indie-game-news/guide-2022-0613-0619-part-3)  `indienova`
 
 ## ❖ AI 影游·互动影像
 
 - [红色文化创意设计专项](https://www.cdec.org.cn/articleDetail/2542)  `好创意数字艺术大赛`
 - [《蓝皮书》在第83届威尼斯国际电影节华语电影全球推广活动首发现场](https://art.pku.edu.cn/lbtp/1542d1932d5d420b802815d9bf52e2be.htm)  `北京大学艺术学院·动态`
 - [第2届数智音舞创新专项赛丨第20届好创意 03-25 2026](https://www.cdec.org.cn/articleDetail/2291)  `好创意数字艺术大赛`
-- [短剧冲击下 游戏行业也不好干了！网易CEO丁磊等行业大佬不能更认同](https://news.mydrivers.com/1/1167/1167437.htm) — 快科技11月20日消息，当下全民刷短剧的风潮愈演愈烈，挤占了大量普通用户的休闲娱乐时间，传统游戏行业的玩家流失情况已经越来越明显，不少上市游戏公司的最新财报数据，已经直接印证了行…  `快科技`
-- [AI 漫剧不缺作品，缺什么？｜QLab直播](https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机](http://www.geekpark.net/news/374299) — 传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资…  `极客公园`
