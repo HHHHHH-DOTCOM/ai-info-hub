@@ -1,41 +1,41 @@
-# 每日情报晨报 · 2026-11-25
+# 每日情报晨报 · 2026-11-26
 
-> 共 642 条更新，覆盖 12 类关注点。生成于 2026/11/25 12:59:08
+> 共 588 条更新，覆盖 12 类关注点。生成于 2026/11/26 12:16:38
 
 ## ⏰ 即将截止
 
-- **1 天后截止** · [STEM Innovation Challenge 2026](https://stem-innovation-challenge-2026.devpost.com) — Devpost 即将开始
-- **1 天后截止** · [Hackathon Agéntico SoftwareChido 2026B](https://hackathon-agentico-2026b.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [HackWithAditya](https://hackwithaditya.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [HackTheFashion Global'26](https://hackthefashion-global26.devpost.com) — Devpost 黑客松
-- **1 天后截止** · [BuildyourOwnWebsite](https://buildyourownwebsite.devpost.com) — Devpost 黑客松
-- **3 天后截止** · [Build Your First AI App](https://build-your-first-ai-app.devpost.com) — Devpost 黑客松
-- **4 天后截止** · [Global AI Builder’s Challenge](https://global-ai-builders-challenge.devpost.com) — Devpost 即将开始
-- **6 天后截止** · [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com) — Devpost 黑客松
-- **6 天后截止** · [#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com) — Devpost 即将开始
-- **7 天后截止** · [ML Empowerment Build Challenge 4.0](https://ml-build-challenge-4.devpost.com) — Devpost 黑客松
+- **2 天后截止** · [Build Your First AI App](https://build-your-first-ai-app.devpost.com) — Devpost 黑客松
+- **3 天后截止** · [Global AI Builder’s Challenge](https://global-ai-builders-challenge.devpost.com) — Devpost 即将开始
+- **5 天后截止** · [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com) — Devpost 黑客松
+- **5 天后截止** · [#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com) — Devpost 即将开始
+- **6 天后截止** · [ML Empowerment Build Challenge 4.0](https://ml-build-challenge-4.devpost.com) — Devpost 黑客松
+- **6 天后截止** · [Code for Change](https://code-for-change-global.devpost.com) — Devpost 黑客松
+- **9 天后截止** · [AI for Medicine: A Global Student Hackathon on the Future of Care](https://ai-for-medicine.devpost.com) — Devpost 黑客松
+- **9 天后截止** · [Kiroween 2026](https://kiroween.devpost.com) — Devpost 即将开始
+- **12 天后截止** · [SLAY HACKS](https://slayy-hacks.devpost.com) — Devpost 黑客松
+- **12 天后截止** · [Deck the Pixels](https://deckthepixels.devpost.com) — Devpost 黑客松
 
 ## ✦ AIGC 前沿
 
 - [AI Agents for Founders Challenge — HETIC 2026](https://ai-agents-founders-hetic-26.devpost.com) — 地点：Online · 赛期：Nov 04 - Dec 18, 2026 · 奖金：€ 997 · 报名：145 人 · 主题：Low/No Code / Machine Lea…  `Devpost 即将开始`
+- [华为昇腾950芯片正式卖到韩国！海外市场取得新突破：国产算力加速出海](https://news.mydrivers.com/1/1168/1168665.htm) — 快科技11月26日消息， 华为国产AI芯片出海取得新进展。据DIGITIMES报道，华为昇腾AI芯片已经在韩国市场开卖，意味着国产AI算力产品开始进入韩国市场销售，海外业务布局进…  `快科技`
+- [国产GPU崛起！MiniMax宣布加快适配昇腾、平头哥 降低对英伟达依赖](https://news.mydrivers.com/1/1168/1168645.htm) — 快科技11月26日消息， 国产AI芯片正在获得更多大模型企业的关注。据报道，MiniMax创始人兼CEO闫俊杰在近日的内部全员大会上表示，公司将加快引入华为昇腾和阿里平头哥等国产…  `快科技`
 - [世界模型变天了](https://www.tmtpost.com/8216357.html) — 世界模型的概念火了两年，此前它更常被当作视频生成技术的延伸，出圈的作品多是演示视频，比拼最直观的是画面逼真度。这个11月，一批厂商的新动作让对物理世界的推演成了模型演进的核心主线…  `钛媒体`
 - [豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道](http://www.geekpark.net/news/374438) — 豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定…  `极客公园`
-- [RNOISE Prompt Forge V5.2 发布：零 LLM 确定性 AI 音乐 Prompt 编译器与 MCP 2.0 协议引擎](https://www.oschina.net/news/503778) — 随着 Suno V6、Udio 2.0、Sonauto V2、DiffRhythm Pro 及 Stable Audio 2.5 等多款生成式音频引擎快速发展，开发者与音乐创作者…  `开源中国`
-- [:fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录](https://www.oschina.net/news/503775) — 更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规…  `开源中国`
-- [深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路](https://www.woshipm.com/ai/6500050.html) — Agent 正从单机工具走向全天候数字同事，但多端消息汇聚、长任务阻塞、结果回传错乱等问题仍困扰开发者。DeepSeek Harness 开源的 Super-agent 以 Ro…  `人人都是产品经理`
-- [Edge AI Daily 早报（11月25日）](https://www.tmtpost.com/8216877.html) — 硅谷前沿： 一、OpenAI与Anthropic为何暂缓交付“超强模型” 1.2026年11月，媒体围绕OpenAI与Anthropic未公开前沿模型的报道称，两家公司在内部测试…  `钛媒体`
-- [百度大模型文心 5.5 Flash Preview 正式开源](https://www.oschina.net/news/503792) — 百度把文心 5.5 Flash Preview 的权重开放出来了。 11 月 24 日，官方发布开源公告，称面向全球开源社区开放文心 5.5 Flash Preview，开发者可…  `开源中国`
+- [Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold](https://www.solidot.org/story?sid=85992) — AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。…  `Solidot`
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work) — OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Wor…  `TechCrunch AI`
+- [OpenAI 开始合并 ChatGPT 聊天 / 工作模式，重度用户可能更早触及限额](https://www.ithome.com/1/032/599.htm) — IT之家 11 月 26 日消息，OpenAICodex&ChatGPT 团队负责人蒂博 · 索蒂奥（IT之家注：Tibo）今天宣布，公司已开始向小部分 Pro 订阅用户推送 C…  `IT之家`
 
 ## ⚙ AIGC 技巧与做法
 
-- [RNOISE Prompt Forge V5.2 发布：零 LLM 确定性 AI 音乐 Prompt 编译器与 MCP 2.0 协议引擎](https://www.oschina.net/news/503778) — 随着 Suno V6、Udio 2.0、Sonauto V2、DiffRhythm Pro 及 Stable Audio 2.5 等多款生成式音频引擎快速发展，开发者与音乐创作者…  `开源中国`
-- [:fire::fire::fire: Claude Code 工程最佳实践 | 主数据平台 1.8.0 发布，专注于单点登录](https://www.oschina.net/news/503775) — 更新周期：2026-10-24 ~ 2026-11-22，后端 41 次提交、前端 40 次提交 编码规则与单号生成组件（全新功能） 控制台新增「编码规则」模块，支持规则主表、规…  `开源中国`
-- [游戏发行商astragon开启发行商Steam特卖，多款模拟游戏限时优惠](https://www.gcores.com/articles/222746) — 游戏发行商astragon 开启发行商Steam特卖，多款模拟游戏限时优惠。模拟游戏爱好者可以在 astragon Entertainment 即将开启的 Steam 发行商特卖…  `机核 GCORES`
-- [从批量生成到业务可用：电商 AI 剪辑的工程取舍与实践复盘｜AICon北京](https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
-- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426) — Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.co…  `Hacker News`
-- [GO 语言社区&问答系统 BBS-GO v4.4.8 发布，支持繁体中文](https://www.oschina.net/news/503785) — BBS-GO 是一个轻量级社区和问答平台，适合搭建论坛、知识库和讨论社区。项目开源、可自托管、跨平台，基于 Go 和 React 构建，支持帖子 / 文章、评论回复、点赞收藏、关…  `开源中国`
-- [MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善](https://www.oschina.net/news/503782) — MateClaw 3.1.0 发布：从执行架构升级，到技能经验与长任务可靠性完善 MateClaw 是一个开源 AI 助手项目，将对话、记忆、知识库、技能和自动化组织在同一个工作…  `开源中国`
-- [David Fincher is being dragged for suspected use of AI in his latest film](https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive) — Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of C…  `The Verge AI`
+- [从一句需求到可点的原型，我手上这套七步的PM工作流](https://www.woshipm.com/share/6500622.html) — 把 PRD 和原型交给 AI，最容易崩在第一步：需求没说清就开写。这套七步工作流要求每个节点都停下来等确认，先问清七件事、再建五个目录、写出十一章节骨架，最后才让模型动手。 昨天…  `人人都是产品经理`
+- [微软 Copilot 负责人：很多软件的主要客户以后不再是人类](https://www.oschina.net/news/503822/agents-are-very-harsh-customers) — “很多软件的主要客户，以后可能不再是人类了。” 说这话的是 Charles Lamanna，微软负责 Copilot、智能体与平台业务的执行副总裁。他在接受 Peter Yang…  `开源中国`
+- [开源 AI 编程工具 T3 Code 被扒出“偷数据”](https://www.oschina.net/news/503805) — T3 Code 近日这场风波，起点不是隐私，是商标。 11 月 20 日，中文开发者「开源小新」（账号 DDdxx666）发布了他第一个公开开源项目「T3 星尘版」，基于 MIT…  `开源中国`
+- [phimint：Rust 写的终端 AI 编程 agent — 获旋武社区「Rust 开源项目推荐」栏目刊文推荐](https://www.oschina.net/news/503801) — 2026-11-24，旋武社区（开放原子开源基金会旗下的 Rust 中国社区）「Rust 开源项目推荐」栏目刊文推荐了 phimint，原文见：phimint，Rust 写的轻量…  `开源中国`
+- [🔥🔥开源接口平台 v6.5.2 发布](https://www.oschina.net/news/503798) — ApiGo 是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入…  `开源中国`
+- [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware) — The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has…  `The Verge AI`
+- [Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成](https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
+- [AI写代码，谁来交付？](https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
 
 ## ⚡ 全球 AI 黑客松
 
@@ -45,39 +45,22 @@
 - [Relate by Neo4j Hackathon](https://relate.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 11, 2026 · 奖金：$ 0 · 报名：159 人 · 主题：Databases / Machine Learnin…  `Devpost 黑客松`
 - [Silicon Valley Buildathon](https://silicon-valley-buildathon.devpost.com) — 地点：Online · 赛期：Nov 08 - Dec 15, 2026 · 奖金：$ 500 · 报名：150 人 · 主题：Open Ended / Beginner Fri…  `Devpost 黑客松`
 - [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com) — 地点：Online · 赛期：Nov 02 - Dec 11, 2026 · 奖金：$ 64,000 · 报名：14 人 · 主题：Machine Learning/AI / P…  `Devpost 黑客松`
+- [InnovateHER Hackathon: Girls Who Code](https://hackathon-girls-who-code.devpost.com) — 地点：Online · 赛期：Nov 10 - Dec 13, 2026 · 奖金：$ 0 · 报名：189 人 · 主题：Beginner Friendly / Open En…  `Devpost 黑客松`
 - [Reddit’s Daily Games Hackathon](https://redditgameofday2026.devpost.com) — 地点：Online · 赛期：Nov 11 - Dec 08, 2026 · 奖金：$ 35,000 · 报名：243 人 · 主题：Beginner Friendly / Ga…  `Devpost 黑客松`
-- [AI OpenBuild](https://ai-openbuild.devpost.com) — 地点：Online · 赛期：Nov 05 - Dec 10, 2026 · 奖金：$ 150 · 报名：69 人 · 主题：Beginner Friendly / Machin…  `Devpost 黑客松`
-
-## ✂ 剪辑技巧
-
-- [从批量生成到业务可用：电商 AI 剪辑的工程取舍与实践复盘｜AICon北京](https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?amp%3Butm_medium=article) — 点击查看原文>  `InfoQ 中文`
 
 ## ♿ 残障大学生成长
 
-- [聚焦“十五五”数字赋能新任务 夯实全市残联系统统计与信息化工作基础 ——天津市残联举办2026年度残疾人事业统计和信息化工作培训会](https://www.cdpf.org.cn/xwzx/dfdt1/661da2f4bf5f48f1b41e55688bc3e405.htm)  `中国残联·地方动态`
-- [党建助残践初心 消费帮扶促共富——湖南湘潭市残联赴助残服务机构开展主题党日活动](https://www.cdpf.org.cn/xwzx/dfdt1/9a525d09248b4f53ade5cbaf7fecaa2e.htm)  `中国残联·地方动态`
-- [湖南湘潭韶山市2026年低收入重度残疾人家庭无障碍改造项目圆满完工](https://www.cdpf.org.cn/xwzx/dfdt1/586676f9d6b84de4b33339d9787deff3.htm)  `中国残联·地方动态`
-- [海南省残联召开党的二十届五中全会精神宣讲暨《海南省“十五五”残疾人保障和发展规划》解读会](https://www.cdpf.org.cn/xwzx/dfdt1/4e2cd8e6b1d64f80922594303a66d4ec.htm)  `中国残联·地方动态`
-- [2026年广东省孤独症筛查诊断和康复服务能力提升省级培训班圆满落幕](https://www.cdpf.org.cn/xwzx/dfdt1/792b69776b854c68aeae0b222875a44a.htm)  `中国残联·地方动态`
-- [最高赔付12万元，广东阳江7.1万名持证残疾人获意外伤害保险](https://www.cdpf.org.cn/xwzx/dfdt1/8dd229c8a1fd41f681248118f3371edc.htm)  `中国残联·地方动态`
-- [2026年广东省国家通用盲文推广活动（东莞站）顺利举行](https://www.cdpf.org.cn/xwzx/dfdt1/bec6d2fcd83c42de8f30385c9afe92ce.htm)  `中国残联·地方动态`
-- [近500名选手同台角逐，第八届广东省残疾人职业技能竞赛圆满收官](https://www.cdpf.org.cn/xwzx/dfdt1/68a326805f5e43a6863adfbc7fe56266.htm)  `中国残联·地方动态`
+- [广东省江门市残联开展关爱残疾人家庭公益活动](https://www.cdpf.org.cn/xwzx/dfdt1/30735f9a3bdd4f429064e90f08ff930c.htm)  `中国残联·地方动态`
+- [广东云浮市残联举行2026年广东省国家通用盲文培训班](https://www.cdpf.org.cn/xwzx/dfdt1/ec26253903c1498495699710adffbc75.htm)  `中国残联·地方动态`
+- [青海省多维发力织密残疾人权益保障网](https://www.cdpf.org.cn/xwzx/dfdt1/ecf4354d88b144adbad9afbbb7a37c9c.htm)  `中国残联·地方动态`
+- [一对一咨询+入户摸排，广东番禺区小谷围街开展残疾人辅具关怀活动](https://www.cdpf.org.cn/xwzx/dfdt1/cb6ca6e437864ccb94c167969a172dc8.htm)  `中国残联·地方动态`
+- [2026年广东省残疾人宣传文化工作交流（肇庆）活动举行](https://www.cdpf.org.cn/xwzx/dfdt1/8eb44bd5b4cf4f05810327dcc737d634.htm)  `中国残联·地方动态`
 
 ## ◈ 实习机会
 
-- [服务商运营实习生](https://www.shixiseng.com/intern/inn_6irypekaimsd)  `实习僧·运营实习`
-- [服务运营实习生](https://www.shixiseng.com/intern/inn_h49ejc7mxa23)  `实习僧·运营实习`
+- [【设计】平面与品牌设计实习生](https://www.shixiseng.com/intern/inn_bype5hpchvxp)  `实习僧·设计实习`
 - [Jeep将在3年内推多款新能源车，第一款明年上市](https://www.36kr.com/newsflashes/4084705686514057) — 11月25日，Stellantis（上海）汽车有限公司总经理潘立胤表示，公司已经明确了Jeep品牌未来的产品规划，接下来三年将带来多款新能源车型，价格区间覆盖入门、主流市场并延伸…  `36氪·快讯`
 - [视觉设计（偏平面设计）](https://www.shixiseng.com/intern/inn_lbomivyzdyyc)  `实习僧·设计实习`
-- [交互设计/平面设计/网页设计/美工](https://www.shixiseng.com/intern/inn_kpunvogcnb6y)  `实习僧·设计实习`
-
-## ⛨ 考公·考编·央国企
-
-- [【迎峰度冬 能源保供】国家电网多措并举保暖保供 [11-25]](http://www.sasac.gov.cn/n2588025/n2588124/c36243636/content.html)  `国务院国资委`
-- [甘肃能化集团携手合作伙伴共筑产业新生态 [11-25]](http://www.sasac.gov.cn/n2588025/n2588129/c36244532/content.html)  `国务院国资委`
-- [国家管网集团河口—临夏支线天然气管道建成投产 [11-25]](http://www.sasac.gov.cn/n2588025/n2588124/c36245076/content.html)  `国务院国资委`
-- [广东珠江船务与香港宽频在港签署合作备忘录 推动港航物流数字化转型 [11-25]](http://www.sasac.gov.cn/n2588025/n2588129/c36244443/content.html)  `国务院国资委`
-- [人民网：央企创新联合体加速布局 推动完善协同创新生态 [11-25]](http://www.sasac.gov.cn/n2588025/n2588139/c36247710/content.html)  `国务院国资委`
 
 ## 🎓 戏影考研·985
 
@@ -92,40 +75,43 @@
 
 ## ◆ 大厂活动·比赛
 
+- [华为昇腾950芯片正式卖到韩国！海外市场取得新突破：国产算力加速出海](https://news.mydrivers.com/1/1168/1168665.htm) — 快科技11月26日消息， 华为国产AI芯片出海取得新进展。据DIGITIMES报道，华为昇腾AI芯片已经在韩国市场开卖，意味着国产AI算力产品开始进入韩国市场销售，海外业务布局进…  `快科技`
+- [国产GPU崛起！MiniMax宣布加快适配昇腾、平头哥 降低对英伟达依赖](https://news.mydrivers.com/1/1168/1168645.htm) — 快科技11月26日消息， 国产AI芯片正在获得更多大模型企业的关注。据报道，MiniMax创始人兼CEO闫俊杰在近日的内部全员大会上表示，公司将加快引入华为昇腾和阿里平头哥等国产…  `快科技`
 - [豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道](http://www.geekpark.net/news/374438) — 豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定…  `极客公园`
 - [百度大模型文心 5.5 Flash Preview 正式开源](https://www.oschina.net/news/503792) — 百度把文心 5.5 Flash Preview 的权重开放出来了。 11 月 24 日，官方发布开源公告，称面向全球开源社区开放文心 5.5 Flash Preview，开发者可…  `开源中国`
-- [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?amp%3Butm_medium=rss&amp%3Butm_campaign=) — 黄仁勋复职后首开全员大会致歉：这是人生第二艰难的会议 豆包旗下 AI 个人助理「小豆」开启公测 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook …  `爱范儿`
 - [曝苹果、华为、小米等多家手机厂商下调2027年出货目标](https://news.mydrivers.com/1/1168/1168373.htm) — 快科技11月25日消息，据界面新闻从供应链获悉，2027年主要手机厂商出货目标近期陆续落定，在存储芯片成本持续高企的背景下，多数厂商选择下调明年预期。 截至发稿，暂无手机厂商对此…  `快科技`
-- [纯过日子时代，品牌为什么更需要讲好技术故事？](https://www.woshipm.com/share/6499950.html) — 全民进入纯过日子时代成了今年 8 月以来的流行语。埃森哲的消费者洞察显示，仍有 45% 的人会选择喜爱的品牌，但忠诚度正被大幅稀释，价值理性替代了品牌惯性。仅靠知名度不够了，品牌…  `人人都是产品经理`
-- [曝 2027 年苹果、三星、小米、OPPO、vivo、华为等手机厂商出货目标落地，多数厂家下调预期](https://www.ithome.com/1/031/950.htm) — IT之家 11 月 25 日消息，界面新闻今日援引供应链消息称，2027 年主要手机厂商出货目标近期陆续落定。受上游存储芯片成本持续高企影响， 多数厂商选择下调明年预期 。
- <…  `IT之家`
-- [AI还没顶上，游戏扛着网易跑，锅在短剧？](https://www.tmtpost.com/8215625.html) — （本文作者为 唐辰同学，钛媒体经授权发布） 文 | 唐辰同学 短剧要替丁磊背锅？ 11月19日晚，网易交出2026年三季报。财报显示，该季度净收入279亿元，同比下降1.8%；游…  `钛媒体`
-- [DeepSeek限额，腾讯社交帝国松口气](https://www.tmtpost.com/8209876.html) — （本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 上周开始，一次再普通不过的提问后，DeepSeek用户撞上一行提示：“因服务器繁忙，使用额度已达上限。” 有…  `钛媒体`
+- [1799元！小米智能门锁5人脸版开售：3D人脸+掌静脉 秒开锁](https://news.mydrivers.com/1/1168/1168698.htm) — 快科技11月26日消息，小米智能门锁5人脸版今天正式开售，新品主打AI 3D人脸识别、AI掌静脉识别及智能猫眼等功能，国补后到手价1799元。 官方汇总共提供13种开锁方案；除生…  `快科技`
+- [小米承诺：米家空调安装多收费 官方双倍赔！](https://news.mydrivers.com/1/1168/1168692.htm) — 快科技11月26日消息，以往传统家电行业中，安装收费不透明是最大的痛点，尤其空调安装十分不规范，多收费、安装不标准等问题频发。 作为互联网起家的小米在杀入空调领域之后，让空调安装…  `快科技`
+- [华为、长鑫放大招！中国芯片论文首次突破100篇：3D堆叠和HBM成焦点](https://news.mydrivers.com/1/1168/1168691.htm) — 快科技11月26日消息， 被誉为芯片设计界奥林匹克的国际固态电路研讨会（ISSCC）公布2027年论文入选名单。中国内地机构入选论文首次突破100篇，达到105篇，较2026年的…  `快科技`
 
 ## ▶ AI 应用开发竞赛
 
-- [深度解析 DeepSeek Super-agent：多端协同的自主 Agent 设计思路](https://www.woshipm.com/ai/6500050.html) — Agent 正从单机工具走向全天候数字同事，但多端消息汇聚、长任务阻塞、结果回传错乱等问题仍困扰开发者。DeepSeek Harness 开源的 Super-agent 以 Ro…  `人人都是产品经理`
-- [翻完11307次AI购物测试，我发现消费品牌的赚钱逻辑变了](https://www.woshipm.com/operate/6499755.html) — a16z 用 1270 个提示词、11307 次测试观察四款 Agent 怎么选商品：AI 实际考察的商品远比想象中少，不同 Agent 的推荐高度重合。作者据此判断，消费品牌的…  `人人都是产品经理`
+- [华为昇腾950芯片正式卖到韩国！海外市场取得新突破：国产算力加速出海](https://news.mydrivers.com/1/1168/1168665.htm) — 快科技11月26日消息， 华为国产AI芯片出海取得新进展。据DIGITIMES报道，华为昇腾AI芯片已经在韩国市场开卖，意味着国产AI算力产品开始进入韩国市场销售，海外业务布局进…  `快科技`
+- [国产GPU崛起！MiniMax宣布加快适配昇腾、平头哥 降低对英伟达依赖](https://news.mydrivers.com/1/1168/1168645.htm) — 快科技11月26日消息， 国产AI芯片正在获得更多大模型企业的关注。据报道，MiniMax创始人兼CEO闫俊杰在近日的内部全员大会上表示，公司将加快引入华为昇腾和阿里平头哥等国产…  `快科技`
+- [项目管理的“知行合一”：尝试用学术模型解读实际项目运作](https://www.woshipm.com/share/6500273.html) — 券商智能化转型常陷入高投入低回报、业务技术脱节的困境。本文借助“通晓知行”东方系统方法论，从学理、人理、物理、事理四个维度，拆解某头部券商投研数智化平台的建设路径，揭示如何将研究…  `人人都是产品经理`
+- [AICon 北京 2026 全日程揭晓｜探索 AI 应用边界，构建持续创造价值的生产体系](https://www.oschina.net/event/8598428) — 12 月 18 日—19 日，AICon 全球人工智能开发与应用大会·北京站将在北京新云南皇冠假日酒店举办。本届大会以「探索 AI 应用边界」为主题，设置 13 大技术专题，全日…  `开源中国`
+- [研发团队最后只剩两个产品经理](https://www.woshipm.com/share/6500633.html) — 一位老领导判断，往后整个产品研发团队两个产品经理就够。作者用两个多月、一百多亿 Token 把产品从需求做到上线，代码几乎没手写，被压平的正是中间那层只负责「翻译」的环节。 老领…  `人人都是产品经理`
 
 ## ◉ AI 3D / 游戏开发
 
 - [《最终幻想7》新作过审！定档2027年4月8日发售](https://www.gamersky.com/news/202611/2251211.shtml)  `游民星空`
 - [NVIDIA显卡限制惨遭破解：8GB显存秒变80GB](https://www.3dmgame.com/news/202611/3959967.html)  `3DM 游戏网`
-- [从Game Jam到Steam发售，《卷尺人》的迭代历程](https://www.indienova.com/indie-game-development/tape-man-devlog)  `indienova`
 - [《哈利波特》剧集首曝片段 但粉丝评价两极分化](https://www.3dmgame.com/news/202611/3960184.html)  `3DM 游戏网`
 - [一个女人毁了一切！网友痛批《GTA6》为何这么烂](https://www.3dmgame.com/news/202611/3960945.html)  `3DM 游戏网`
-- [游戏发行商astragon开启发行商Steam特卖，多款模拟游戏限时优惠](https://www.gcores.com/articles/222746) — 游戏发行商astragon 开启发行商Steam特卖，多款模拟游戏限时优惠。模拟游戏爱好者可以在 astragon Entertainment 即将开启的 Steam 发行商特卖…  `机核 GCORES`
-- [资讯 本周 Steam 值得关注的游戏 11.23 - 11.29（一）](https://www.indienova.com/indie-game-news/guide-2026-1123-1129-part-1)  `indienova`
-- [2016 手机独立游戏推荐 #2](https://www.indienova.com/indie-game-news/2016-indienova-mobile-games-2)  `indienova`
+- [育碧被曝要求开发者使用生成式 AI 缩短游戏开发周期，不用需说明理由](https://www.ithome.com/1/032/571.htm) — IT之家 11 月 26 日消息，据外媒 Vertical Slice 昨天报道，匿名育碧员工透露，育碧正要求负责新游戏的开发者使用生成式 AI，旨在缩短游戏开发周期。
+ <i…  `IT之家`
+- [资讯 本周 Steam 值得关注的游戏 11.23 - 11.29（二）](https://www.indienova.com/indie-game-news/guide-2026-1123-1129-part-2)  `indienova`
+- [本周 Steam 值得关注的游戏 09.09 - 09.15（三）](https://www.indienova.com/indie-game-news/guide-2024-0909-0915-part-3)  `indienova`
+- [本周 Steam 值得关注的游戏 12.04 - 12.10（下）](https://www.indienova.com/indie-game-news/guide-2023-1204-1210-part-3)  `indienova`
 
 ## ❖ AI 影游·互动影像
 
 - [红色文化创意设计专项](https://www.cdec.org.cn/articleDetail/2542)  `好创意数字艺术大赛`
 - [《蓝皮书》在第83届威尼斯国际电影节华语电影全球推广活动首发现场](https://art.pku.edu.cn/lbtp/1542d1932d5d420b802815d9bf52e2be.htm)  `北京大学艺术学院·动态`
 - [豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道](http://www.geekpark.net/news/374438) — 豆包旗下 AI 个人助理「小豆」开启公测，能够帮你处理日常事务 11 月 24 日消息，豆包官方今天宣布「小豆」正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验，并获赠一定…  `极客公园`
+- [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html) — 叠满海淀最强AI Buff。  `量子位`
 - [第2届数智音舞创新专项赛丨第20届好创意 03-25 2026](https://www.cdec.org.cn/articleDetail/2291)  `好创意数字艺术大赛`
-- [AI还没顶上，游戏扛着网易跑，锅在短剧？](https://www.tmtpost.com/8215625.html) — （本文作者为 唐辰同学，钛媒体经授权发布） 文 | 唐辰同学 短剧要替丁磊背锅？ 11月19日晚，网易交出2026年三季报。财报显示，该季度净收入279亿元，同比下降1.8%；游…  `钛媒体`
-- [《丑狐》爆火出圈，中式志怪成AI短剧新流量密码？](https://www.tmtpost.com/8215550.html) — （本文作者为 AI价值官，钛媒体经授权发布） 文 | AI价值官，作者丨星野，编辑丨美圻 狐妖变脸、古宅怪谈、冥婚禁忌……今年以来，中式志怪、中式恐怖正在AI短剧、漫剧中悄然迎来…  `钛媒体`
-- [短剧制作师](https://www.shixiseng.com/intern/inn_99el8wikgfl6)  `实习僧·AI 实习`
-- [刷剧停不下来，红果短剧新增“时间锁”功能](https://www.ithome.com/1/031/943.htm) — IT之家 11 月 25 日消息，红果短剧悄悄新增了可自行开启的“ 时间锁 ”功能。
- <img src="https://img.ithome.…  `IT之家`
+- [丢个故事就行！直出15分钟AI短片，家里二舅也能上手](https://www.qbitai.com/2026/11/512727.html) — 丢个故事就行！直出15分钟AI短片，家里二舅也能上手
+ <img src="http://www.qbitai.com/wp-content/themes/liangziwei/…  `量子位`
+- [红果上线“时间锁”：一个4亿用户平台开始主动降速](https://www.woshipm.com/share/6500787.html) — 红果短剧MAU超4.3亿、单日使用151分钟，却突然上线“时间锁”让用户自设观看上限。从金币激励到主动限时，背后是广告单价下滑与内容供给过剩的残酷现实。本文拆解时间锁的产品逻辑与…  `人人都是产品经理`
+- [短剧成了悬在互联网公司头上的一把利剑](https://www.woshipm.com/it/6500464.html) — 当网易丁磊坦言短剧冲击游戏，B站陈睿却称毫无影响，同一问题两种答案背后，是AI短剧正以惊人效率争夺用户时间。然而，短剧从业者却陷入越繁荣越难赚钱的怪圈。本文从三场财报对话切入，拆…  `人人都是产品经理`
